@@ -505,7 +505,7 @@ function copyText(btn, id) {
 
 // ── Sub URLs ──────────────────────────────────────
 function generateSubUrls() {
-  const base = window.location.href.replace(/\/?[^/]*$/, '/');
+  const base = window.location.href.substring(0, window.location.href.lastIndexOf('/') + 1);
   document.getElementById('clashUrl').innerHTML = base + 'data/clash.yaml<button class="copy-btn" onclick="copyText(this,\'clashUrl\')">复制</button>';
   document.getElementById('b64Url').innerHTML = base + 'data/subscribe_base64.txt<button class="copy-btn" onclick="copyText(this,\'b64Url\')">复制</button>';
   document.getElementById('jsonUrl').innerHTML = base + 'data/proxies.json<button class="copy-btn" onclick="copyText(this,\'jsonUrl\')">复制</button>';
