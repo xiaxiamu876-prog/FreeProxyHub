@@ -1,0 +1,23 @@
+{
+  "total": 4360,
+  "updated_at": "2026-08-22T17:15:05Z",
+  "protocols": {
+    "http": 1297,
+    "socks5": 905,
+    "socks4": 613,
+    "vless": 592,
+    "ss": 336,
+    "trojan": 311,
+    "vmess": 306
+  },
+  "sources": {
+    "gfpcom": 3497,
+    "monosans": 709,
+    "roosterkid": 154
+  },
+  "anti_censorship": {
+    "medium": 3697,
+    "strong": 436,
+    "extreme": 227
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "updated_at": "2026-08-22T17:15:05Z",
+  "total_proxies": 4360,
+  "subscriptions": {
+    "clash": 300,
+    "base64": 200,
+    "plain": 0
+  }
+}
