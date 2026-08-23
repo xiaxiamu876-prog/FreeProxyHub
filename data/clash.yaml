@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-08-23 12:18:54
+# 更新时间: 2026-08-23 18:15:09
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -86,7 +86,7 @@ proxies:
   - {name: "__BE_2_614KB_s_B007-260618_01", type: vless, server: 0u1b-m23jqv.jumpnest.top, port: 443, uuid: "4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f", flow: "xtls-rprx-vision", tls: true, servername: "www.bing.com", network: "tcp"}
   - {name: "[6504][US][0][VLESS][None][ext", type: vless, server: 0vgx63a3.helpower.ir, port: 8443, uuid: "29758bab-b53f-49a5-9aca-2ebf4f5c2f96", flow: "xtls-rprx-vision", tls: true, servername: "www.samsung.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 0wtadbshb4f3.zozodogg.com, port: 2053, uuid: "f1e6e774-d809-4b04-a110-6d006d55bdfc", flow: "xtls-rprx-vision", tls: true, servername: "tgju.org", network: "grpc"}
-  - {name: "[OpenRay]____DE-22590", type: vless, server: 0xpy-c6a0gi.ledgermarshlabs.net, port: 443, uuid: "f6facd31-c0f7-444f-8b7d-be754eaea9cc", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "tcp"}
+  - {name: "[45811][US][0][VLESS][None][ex", type: vless, server: 0xpy-c6a0gi.ledgermarshlabs.net, port: 443, uuid: "f6facd31-c0f7-444f-8b7d-be754eaea9cc", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 1-ge.meloishere.com, port: 900, uuid: "5ed48b2e-42c5-4b50-9c85-9dba01d194c3", flow: "xtls-rprx-vision", tls: true, servername: "www.icloud.com", network: "tcp"}
   - {name: "香港_072020010", type: vless, server: 1-hk.ap.ku-ke.cc, port: 2000, uuid: "680c97a6-141d-49a8-9407-a6dc71deae04", flow: "xtls-rprx-vision", tls: true, servername: "cdn.jsdelivr.net", network: "tcp"}
   - {name: "香港_072020011", type: vless, server: 1-hk.ap.ku-ke.cc, port: 2001, uuid: "680c97a6-141d-49a8-9407-a6dc71deae04", flow: "xtls-rprx-vision", tls: true, servername: "fonts.gstatic.com", network: "tcp"}
@@ -230,7 +230,7 @@ proxies:
   - {name: "__@v2ray_configs_pool_____Phil", type: vless, server: 103.118.208.134, port: 443, uuid: "505a1a16-2c67-4cbb-a5db-acde6627660b", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.118.244.200, port: 20001, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 103.118.40.32, port: 8443, uuid: "f4e91fac-25eb-4d26-a14c-c82c3778a0e4", tls: true, network: "ws"}
-  - {name: "4Jadi-6a37efbf5b", type: vless, server: 103.119.18.115, port: 443, uuid: "a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac", flow: "xtls-rprx-vision", tls: true, servername: "ch1.murhost.network", network: "tcp"}
+  - {name: "[28827][CZ][0][VLESS][None][ex", type: vless, server: 103.119.18.115, port: 443, uuid: "a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac", flow: "xtls-rprx-vision", tls: true, servername: "ch1.murhost.network", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.119.18.153, port: 443, uuid: "69439c87-cf97-41df-af37-580a1ad5fdb9", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
   - {name: "_82@oneclickvpnkeys", type: vless, server: 103.119.18.158, port: 443, uuid: "8bbf020e-653f-4a82-9900-1214e4e37dab", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
   - {name: "__85@oneclickvpnkeys", type: vless, server: 103.119.18.159, port: 443, uuid: "8bbf020e-653f-4a82-9900-1214e4e37dab", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
@@ -243,7 +243,7 @@ proxies:
   - {name: "-_HK_(@DeamNet_Proxy)_(2)", type: vless, server: 103.123.162.50, port: 443, uuid: "17011a43-97e2-44b0-b0da-a2ea151ad75c", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "raw"}
   - {name: "[OpenRay]____JP-4323", type: vless, server: 103.125.219.14, port: 13443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "auto.cendora.ru", network: "tcp"}
   - {name: "___JP_@wxgqlfx_151", type: vless, server: 103.125.219.14, port: 443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
-  - {name: "https___t.me_ForceRunVPN-__-Lo", type: vless, server: 103.126.50.203, port: 443, uuid: "76f6b7fe-5de8-4637-87a0-6ddd33d67b3e", flow: "xtls-rprx-vision", tls: true, servername: "/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512", network: "tcp"}
+  - {name: "https___t.me_ForceRunVPN-__-Lo", type: vless, server: 103.126.50.203, port: 443, uuid: "76f6b7fe-5de8-4637-87a0-6ddd33d67b3e", flow: "xtls-rprx-vision", tls: true, servername: "JOIN_BEDE_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", network: "tcp"}
   - {name: "___[БС-VL]_Малайзия__9305___Ро", type: vless, server: 103.130.145.44, port: 443, uuid: "0d93b787-b66b-4696-a036-a0f549764f69", flow: "xtls-rprx-vision", tls: true, servername: "tr.fasti.win", network: "tcp"}
   - {name: "___[БС-VL]_Тайвань__9304___Рос", type: vless, server: 103.130.145.48, port: 443, uuid: "0d93b787-b66b-4696-a036-a0f549764f69", flow: "xtls-rprx-vision", tls: true, servername: "tr.fasti.win", network: "tcp"}
   - {name: "美国_0720203390", type: vless, server: 103.133.1.140, port: 80, uuid: "f9255507-1b65-433f-bfd8-193b35e068e2", tls: true, network: "ws"}
@@ -279,37 +279,37 @@ proxies:
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "__US-49.51.180.214-1692", type: vmess, server: 0121136175176168.xhtk.cc, port: 443, uuid: "286ff9bd-26b8-39c2-d85e-ba20dc1a7e75", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__US-49.51.180.214-1649", type: vmess, server: 0121136175176168.xhtk.cc, port: 443, uuid: "286ff9bd-26b8-39c2-d85e-ba20dc1a7e75", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4Jadi-bf2f3f95a4", type: vmess, server: 0319hzm01.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4Kian-7629ac9049", type: vmess, server: 0320hk567.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4FreeIran-94348faaf4", type: vmess, server: 0320hk857.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4Kian-02c9d50207", type: vmess, server: 0320jp.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-1.1.1.1-0543", type: vmess, server: 1.1.1.1, port: 443, uuid: "36f71b02-04bf-4ab6-8f17-850a002b448d", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-1.1.1.1-0512", type: vmess, server: 1.1.1.1, port: 443, uuid: "36f71b02-04bf-4ab6-8f17-850a002b448d", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "[341][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.2, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "[342][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.3, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "[338][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.4, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "[339][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.5, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "__TW-1.161.186.146-1634", type: vmess, server: 1.161.186.146, port: 64443, uuid: "cb7001c7-e495-41ac-b942-f25f60523414", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__TW-1.161.186.146-1591", type: vmess, server: 1.161.186.146, port: 64443, uuid: "cb7001c7-e495-41ac-b942-f25f60523414", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "___US_美国", type: vmess, server: 1.1808.cf, port: 443, uuid: "76a884db-04e1-40fb-ade5-c031a7f3461e", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "__KR-1.238.102.214-6661", type: vmess, server: 1.238.102.214, port: 30001, uuid: "ffffffff-ffff-ffff-ffff-ffffffffffff", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__KR-1.238.102.214-6597", type: vmess, server: 1.238.102.214, port: 30001, uuid: "ffffffff-ffff-ffff-ffff-ffffffffffff", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "@WeePeeN_-_5AM", type: vmess, server: 1000.100-1000.ir, port: 2052, uuid: "776e05e8-a4bd-4782-83b4-6bfc2465211d", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "@WeePeeN_-_Germany_1___", type: vmess, server: 1000.100-1000.ir, port: 443, uuid: "7e7d57ed-0c74-4a58-eb4c-79fb08391a75", alterId: 0, cipher: auto, tls: true, network: "tcp"}
   - {name: "@WeePeeN_-_Germany_2___", type: vmess, server: 1000.100-1000.ir, port: 664, uuid: "7143d8f4-b8b8-4751-c9f3-8c832bb01e25", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "@WeePeeN_-_WAH", type: vmess, server: 1000.100-1000.ir, port: 8080, uuid: "df0608da-0c4d-4fce-f445-0c11e7a0de2b", alterId: 0, cipher: auto, tls: true, network: "tcp"}
   - {name: "@WeePeeN_-_روح", type: vmess, server: 1000.100-1000.ir, port: 993, uuid: "ece7037b-5190-4fb8-8f5a-db4e8a10cc0c", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "4Jadi-0d569387d5", type: vmess, server: 102.177.189.101, port: 443, uuid: "8f74ec8a-971c-11ed-a8fc-0242ac120002", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "4FreeIran-f9c126f0e5", type: vmess, server: 102.177.189.101, port: 443, uuid: "8f74ec8a-971c-11ed-a8fc-0242ac120002", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__TW-103.177.33.19-7743", type: vmess, server: 103.177.33.19, port: 30013, uuid: "418048af-a293-4b99-9b0c-98ca3580dd24", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.107-1819", type: vmess, server: 103.21.244.107, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.109-1673", type: vmess, server: 103.21.244.109, port: 443, uuid: "aa586ced-9c6b-4882-aae5-f4fa3919c73c", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.113-1818", type: vmess, server: 103.21.244.113, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.122-1547", type: vmess, server: 103.21.244.122, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.127-0869", type: vmess, server: 103.21.244.127, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.142-3940", type: vmess, server: 103.21.244.142, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.187-0866", type: vmess, server: 103.21.244.187, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.219-0926", type: vmess, server: 103.21.244.219, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.226-0921", type: vmess, server: 103.21.244.226, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.227-0862", type: vmess, server: 103.21.244.227, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "_RELAY-103.21.244.238-3946", type: vmess, server: 103.21.244.238, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.107-1776", type: vmess, server: 103.21.244.107, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.109-1630", type: vmess, server: 103.21.244.109, port: 443, uuid: "aa586ced-9c6b-4882-aae5-f4fa3919c73c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.113-1775", type: vmess, server: 103.21.244.113, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.122-1504", type: vmess, server: 103.21.244.122, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.127-0841", type: vmess, server: 103.21.244.127, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.142-3887", type: vmess, server: 103.21.244.142, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.187-0838", type: vmess, server: 103.21.244.187, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.219-0898", type: vmess, server: 103.21.244.219, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.226-0893", type: vmess, server: 103.21.244.226, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.227-0834", type: vmess, server: 103.21.244.227, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-103.21.244.238-3893", type: vmess, server: 103.21.244.238, port: 8443, uuid: "a6a37e04-5e81-44c9-be53-baa3ff46eb8b", alterId: 0, cipher: auto, tls: true, network: "ws"}
 
 proxy-groups:
   - name: "🚀 自动选择"
