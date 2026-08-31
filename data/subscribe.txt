@@ -69,6 +69,7 @@ vless://3b4529e8-9c14-4541-8388-fe90d737baeb@0b889c24f5229843.mechanicir.ir:5662
 vless://61d399ad-593e-4307-9132-b32dc46be613@0e39.ghgh.cf:443?type=ws&security=tls&sni=0e39.ghgh.cf#IEJ5IEVicmFTaGE=
 vless://b1f87df1-7527-44d1-b353-77dc829c6ef2@0e806ccdc7a782a3.instasup.ir:2003?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play.google.com&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&fp=edge#IEJ5IEVicmFTaGE=
 vless://8818f2ea-e919-4af7-a90e-d1c619423c9b@0join.outline-vpn.cloud:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.g2.com&pbk=bPNbhA_C4XpMj6mbWSciMm2cxoC7pXIP4MDHQFSYXTM&fp=firefox#IEJ5IEVicmFTaGE=
+vless://50414e45-4c5f-5a45-5553-9df80d553692@0lzw35eluyys.56zv22emuags.workers.dev:443?type=ws&security=tls&sni=0lzw35eluyys.56zv22emuags.workers.dev#NEtpYW4tNTAzMGViOGUwNg==
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@0ru84.tcpdoor.net:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=0ru84.tcpdoor.net&pbk=RHUQAGJ_MYNKsZt2XO_DATEm1cQh0Rdpz83DTCGSKl0&fp=firefox#MDQ4OCB8IPCfjI0gVW5rbm93biB8IFZMRVNTIHwgVEc6IEBTVFJfQllQQVNT
 vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@0u1b-m23jqv.jumpnest.top:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision#8J+Hp/Cfh6p8QkV8QHd4Z3FsZnh8NzU=
 vless://29758bab-b53f-49a5-9aca-2ebf4f5c2f96@0vgx63a3.helpower.ir:8443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.samsung.com&pbk=DPOXdCRqBVmk-NnIcn83jJivUPYbk2CUvETiN_8Hx08&fp=chrome#WzY1MDRdW1VTXVswXVtWTEVTU11bTm9uZV1bZXh0X3Jhdy5naXRodWJ1c2VyY29udGVudC5jb21dWzIwMjYtMDgtMTZdWzIwMjYtMDgtMTYgMDA6MzRd
@@ -171,7 +172,7 @@ vless://1dd20ca0-b92d-4d2c-97b4-9e5bf28fd7ff@103.109.234.123:443?type=tcp&securi
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.129:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=dep.opngtr.nl&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&fp=chrome#NEtpYW4tMDM0NDU1ODJjNQ==
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.166:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=dep.opngtr.nl&pbk=gA6-Fj5hl4x-HOtbCcYqD99qsml4ActHRmw-VTkFU14&fp=chrome#NEtpYW4tNWMyNzU4NWUzMw==
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.198:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=de.savesafe.cc&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&fp=firefox#IEJ5IEVicmFTaGE=
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.199:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=de.savesafe.cc&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&fp=chrome#NEZyZWVJcmFuLTRmN2UzOWYyNDA=
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.109.234.199:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=de.savesafe.cc&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&fp=firefox#IEJ5IEVicmFTaGE=
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@103.109.234.230:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=de10.buycloud.app&pbk=z_Rn0Vvq1GB39RhN6v7DhdtD-kS0XZa_je0h-no_hWs&fp=qq#IEJ5IEVicmFTaGE=
 vless://d9e62b6c-e55f-4e10-8743-28814b96c3a5@103.109.234.41:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=de1.vpnskyline.com&pbk=MFwjB8TRJrKOH8E_9tx8V0aRRvkw622mrGdKrrBy3Bo&fp=ios#IEJ5IEVicmFTaGE=
 vless://26524cce-d514-4014-a426-365fb266a14d@103.110.66.207:443?type=ws&security=tls&sni=jbp7i.data-edge.chinav.indevs.in#5a2f5Yqg5ouJ5Zu9XzA3MjAyMDAwMQ==
@@ -197,4 +198,3 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@103.116.7.174:443?type=ws&security=
 vless://0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e@103.116.7.17:443?type=ws&security=tls&sni=ov186.ochmaybrooooo.online#576O5Zu9XzA3MjAyMDUyMjM=
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.189:443?type=ws&security=tls&sni=nicorobin.eula.cloudns.org#IFZMLVdTLVRMUyAgVVMtMTAzLjExNi43LjE4OTo0NDM=
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.116.7.202:2053?type=ws&security=tls&sni=cosi.bvzizx.com#8J+UkiBWTC1XUy1UTFMg8J+HuvCfh7ggVVMtMTAzLjExNi43LjIwMjoyMDUz
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@103.116.7.21:2087?type=xhttp&security=tls&sni=ch-de.sdcards.ir#8J+HqfCfh6ogW1ZMXSDQk9C10YDQvNCw0L3QuNGPICM4MTEgfCDQoNC+0YHQotGD0L3QvdC10LvRjA==
