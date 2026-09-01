@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-01 10:45:46
+# 更新时间: 2026-09-01 15:45:22
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -43,7 +43,7 @@ proxies:
   - {name: "[477ms_Франция_FR____@vlesstro", type: vless, server: 031c1bf3e9d44591.mechanicir.ir, port: 56625, uuid: "8ddb745a-2e59-4085-85b7-9284ac6bc535", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "Join_Telegram_@Farah_VPN", type: vless, server: 0406.infinityconfig7.workers.dev, port: 2053, uuid: "d682c8f4-e719-577e-cbe9-2e5b00000001", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 0406.infinityconfig7.workers.dev, port: 443, uuid: "d682c8f4-e719-577e-cbe9-2e5b00000000", tls: true, network: "ws"}
-  - {name: "4Nika-db33f3737e", type: vless, server: 05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev, port: 443, uuid: "527451fe-ee1f-4e6f-94ca-808f055f7c9b", tls: true, network: "ws"}
+  - {name: "4Nika-6f8e3c1519", type: vless, server: 05a5f9v5a6cm563ieoye7j-8tnpd.hsysyegegrygvvvdujhh.workers.dev, port: 443, uuid: "527451fe-ee1f-4e6f-94ca-808f055f7c9b", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 0706-def.kovira2.ir, port: 2053, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "grpc"}
   - {name: "_By_EbraSha", type: vless, server: 0706-def.kovira2.ir, port: 2083, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 0708-atom.kovira2.ir, port: 2053, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "grpc"}
@@ -274,7 +274,7 @@ proxies:
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__US-49.51.180.214-0891", type: vmess, server: 0121136175176168.xhtk.cc, port: 443, uuid: "286ff9bd-26b8-39c2-d85e-ba20dc1a7e75", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "4FreeIran-9016c008ce", type: vmess, server: 01eb6-g01.jp03-7d22-vm0.entry.fr0307a.art, port: 21581, uuid: "7a6cb59b-fbcd-3f50-b5f2-a2534326c4c8", alterId: 0, cipher: auto, tls: true, network: "tcp"}
+  - {name: "__JP_3_5.2MB_s", type: vmess, server: 01eb6-g01.jp03-7d22-vm0.entry.fr0307a.art, port: 21581, uuid: "7a6cb59b-fbcd-3f50-b5f2-a2534326c4c8", alterId: 0, cipher: auto, tls: true, network: "tcp"}
   - {name: "4Jadi-bf2f3f95a4", type: vmess, server: 0319hzm01.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4Kian-7629ac9049", type: vmess, server: 0320hk567.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "4FreeIran-94348faaf4", type: vmess, server: 0320hk857.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
