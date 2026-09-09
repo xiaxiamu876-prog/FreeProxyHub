@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-08 20:28:34
+# 更新时间: 2026-09-09 02:07:42
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -82,8 +82,8 @@ proxies:
   - {name: "_By_EbraSha", type: vless, server: [0:0:0:0:0:ffff:c7f7:0509], port: 443, uuid: "68628700-ed1b-11ed-a506-1239d0255272", tls: true, network: "grpc"}
   - {name: "_By_EbraSha", type: vless, server: 0a6b0c0a.expressvpnfree021-4j0.pages.dev, port: 443, uuid: "7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb", tls: true, network: "ws"}
   - {name: "法国_072020398", type: vless, server: 0b889c24f5229843.mechanicir.ir, port: 56625, uuid: "3b4529e8-9c14-4541-8388-fe90d737baeb", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
-  - {name: "4FreeIran-866c83da9e", type: vless, server: 0c50eab9-tl4g00-tla4gi-1m0fq.hk3.hyhuawei.com, port: 443, uuid: "a698c4a6-c3c9-11ee-9693-f23c91cfbbc9", flow: "xtls-rprx-vision", tls: true, servername: "updates.cdn-apple.com", network: "tcp"}
   - {name: "[OpenRay]____HK-2935", type: vless, server: 0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com, port: 443, uuid: "45bc25b2-1a10-11ed-91c0-f23c91cfbbc9", flow: "xtls-rprx-vision", tls: true, servername: "updates.cdn-apple.com", network: "tcp"}
+  - {name: "vless-1109076537", type: vless, server: 0deecae9-tl4g00-tls5or-6gn6.hk3.hyhuawei.com, port: 443, uuid: "c12f73f6-e8c7-11ed-9246-f23c9164ca5d", flow: "xtls-rprx-vision", tls: true, servername: "updates.cdn-apple.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 0e39.ghgh.cf, port: 443, uuid: "61d399ad-593e-4307-9132-b32dc46be613", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 0e806ccdc7a782a3.instasup.ir, port: 2003, uuid: "b1f87df1-7527-44d1-b353-77dc829c6ef2", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 0join.outline-vpn.cloud, port: 443, uuid: "8818f2ea-e919-4af7-a90e-d1c619423c9b", flow: "xtls-rprx-vision", tls: true, servername: "www.g2.com", network: "tcp"}
