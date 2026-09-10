@@ -22,7 +22,7 @@ vless://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@00999.20220420.pp.ua:443?type=ws&se
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@01-qq.com:443?type=ws&security=tls&sni=3-bio.pages.dev#5pyq55+lXzA3MjAyMDUxMjY=
 vless://829863bd-8784-45af-81d1-b784fdefd8e0@010-join.outline-vpn.cloud:2053?type=grpc&security=tls&sni=v2rayfree1.globalnetvpn.site&fp=chrome#IEJ5IEVicmFTaGE=
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?type=ws&security=tls&sni=014.ELectRoceLlCO#U2lOQVZNIHwgVkxFU1MgfCAjNw==
-vless://14ffccc6-81e0-4108-ab35-b3df398534af@0144e048e9e3dd74.neshatinjafood.ir:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&fp=chrome#IEJ5IEVicmFTaGEg8J+Vue+4jw==
+vless://14ffccc6-81e0-4108-ab35-b3df398534af@0144e048e9e3dd74.neshatinjafood.ir:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play-apps-features.googleusercontent.com&pbk=-Nw4pIuzq_vnQiII34vwq-_Hot3THgvXB6teTaX1jiQ&fp=chrome#W09wZW5SYXldIPCfh6rwn4e4IEVTLTQ4OA==
 vless://b74bbaca-8bbe-41e1-9af9-18d467836282@017.electrocellco-cf-017.workers.dev:443?type=ws&security=tls&sni=017.electrocellco-cf-017.workers.dev&fp=chrome#5pyq55+lXzA3MjAyMDc1NQ==
 vless://94671f42-fdd3-4503-a3e6-bda4a2527560@019.electrocellco-cf-019.workers.dev:443?type=ws&security=tls&sni=019.electrocellco-cf-019.workers.dev#5pyq55+lXzA3MjAyMDM0MQ==
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@01df4097a832d04e.mbcloudynias.ir:50567?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play.google.com&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&fp=chrome#IEJ5IEVicmFTaGE=
@@ -72,7 +72,7 @@ vless://I_Love__SSHMax_e22756c@[0:0:0:0:0:ffff:b078:4011]:443?type=grpc&security
 vless://68628700-ed1b-11ed-a506-1239d0255272@[0:0:0:0:0:ffff:c7f7:0509]:443?type=grpc&security=tls&sni=us1.socifiles.com#IEJ5IEVicmFTaGE=
 vless://7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb@0a6b0c0a.expressvpnfree021-4j0.pages.dev:443?type=ws&security=tls&sni=0a6b0c0a.expressvpnfree021-4j0.pages.dev#IEJ5IEVicmFTaGE=
 vless://3b4529e8-9c14-4541-8388-fe90d737baeb@0b889c24f5229843.mechanicir.ir:56625?type=grpc&security=tls&security=reality&flow=xtls-rprx-vision&sni=icloud.com&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=firefox#5rOV5Zu9XzA3MjAyMDM5OA==
-vless://20f87b02-0eaa-11eb-8684-f23c913c8d2b@0cd6e0e6-tlheo0-tphvvu-gacy.hk3.hyhuawei.com:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome#IEJ5IEVicmFTaGEg8J+MjA==
+vless://20f87b02-0eaa-11eb-8684-f23c913c8d2b@0cd6e0e6-tlheo0-tphvvu-gacy.hk3.hyhuawei.com:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome#dmxlc3MtMTIyOTgxMTY4Ng==
 vless://45bc25b2-1a10-11ed-91c0-f23c91cfbbc9@0d0fc751-tl4g00-tm23vf-1jk6u.hk3.hyhuawei.com:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome#W09wZW5SYXldIPCfh63wn4ewIEhLLTI5MzU=
 vless://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@0deecae9-tl4g00-tls5or-6gn6.hk3.hyhuawei.com:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=updates.cdn-apple.com&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&fp=chrome#6aaZ5rivIDQx
 vless://61d399ad-593e-4307-9132-b32dc46be613@0e39.ghgh.cf:443?type=ws&security=tls&sni=0e39.ghgh.cf#IEJ5IEVicmFTaGE=
