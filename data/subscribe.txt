@@ -92,7 +92,6 @@ vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?type=ws&security=tls&sn
 vless://ba7556ea-2e96-4463-a6f2-f2ab3579a653@1.1.1.1:443?type=ws&security=tls&sni=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&fp=random#IFZMLVdTLVRMUyAgTkEtMS4xLjEuMTo0NDM=
 vless://51a6c5c7-1ab2-416e-b4f9-ce8c39abff96@1.1.1.1:5780?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=refersion.com&pbk=WP6WZCYxeV_2NOjLVUXF90U-KzCMi3B6YVRX5TE74TY&fp=random#IEJ5IEVicmFTaGE=
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@1.1.1.74:2083?type=ws&security=tls&sni=tight-bush-30c8.alvlirm951.workers.dev&fp=chrome#5pyq55+lXzA3MjAyMDUxMTU=
-vless://6dbb8854-17a5-4684-b930-c11f022975ec@1.165.7.205:39817?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uzaav8KrDeu1P9qdg6fDfxmq9Z6vV6a-WVPTWX1zIj4&fp=firefox#dmxlc3MtMTI5MDIyMzY2Mg==
 vless://26524cce-d514-4014-a426-365fb266a14d@1.227.49.246:29090?type=ws&security=tls&sni=g4y4886.mail-relay.chinam.indevs.in#6Z+p5Zu9XzA3MjAyMDEzNw==
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@1.65.209.123:443?type=ws&security=tls&sni=cv.ylka.dpdns.org&fp=random#WzE1MTJdW0hLXVswXVtWTEVTU11bTm9uZV1bZXh0X3Jhdy5naXRodWJ1c2VyY29udGVudC5jb21dWzIwMjYtMDgtMTZdWzIwMjYtMDgtMTYgMDA6MzRd
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=icloud.com&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&fp=chrome#NEtpYW4tZjcxZmQ2MmUyYQ==
@@ -198,3 +197,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?type=ws&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:443?type=ws&security=tls&sni=sni.111000.indevs.in#576O5Zu9XzA3MjAyMDIyNzc=
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.152:2096?type=ws&security=tls&sni=nicorobin.eula.cloudns.org#IFZMLVdTLVRMUyAgVVMtMTAzLjExNi43LjE1MjoyMDk2
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.116.7.158:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#WzEwMjA2XVtVU11bMF1bVkxFU1NdW05vbmVdW2V4dF9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tXVsyMDI2LTA4LTE2XVsyMDI2LTA4LTE2IDAwOjM0XQ==
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@103.116.7.174:443?type=ws&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome#QFZpcF9TZWN1cml0eSBqb2luIHVzIC0gNjk5
