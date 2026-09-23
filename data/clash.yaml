@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-23 10:27:46
+# 更新时间: 2026-09-23 15:46:17
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -189,7 +189,7 @@ proxies:
   - {name: "4Jadi-92c1521734", type: vless, server: 103.109.234.243, port: 443, uuid: "ddf09ad0-02dc-485b-9048-1038de5bebf0", flow: "xtls-rprx-vision", tls: true, servername: "de10.delivery-4f1c.com", network: "tcp"}
   - {name: "__DE_188_1.0MB_s_B007-260618_0", type: vless, server: 103.109.234.246, port: 443, uuid: "ddf09ad0-02dc-485b-9048-1038de5bebf0", flow: "xtls-rprx-vision", tls: true, servername: "de10.delivery-4f1c.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.109.234.41, port: 443, uuid: "d9e62b6c-e55f-4e10-8743-28814b96c3a5", flow: "xtls-rprx-vision", tls: true, servername: "de1.vpnskyline.com", network: "tcp"}
-  - {name: "4Nika-4b7618cf87", type: vless, server: 103.109.234.61, port: 443, uuid: "b2593749-691c-428c-9481-14979cba3446", tls: true, network: "ws"}
+  - {name: "https___t.me_ForceRunVPN-__-Dr", type: vless, server: 103.109.234.61, port: 443, uuid: "b2593749-691c-428c-9481-14979cba3446", tls: true, network: "ws"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "印度_072020080", type: vless, server: 103.111.114.147, port: 8443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.111.115.161, port: 443, uuid: "adab9268-f742-407b-8cbc-cf0b643c5e9f", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
