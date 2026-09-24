@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-23 20:50:33
+# 更新时间: 2026-09-24 02:12:37
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -82,7 +82,7 @@ proxies:
   - {name: "法国_072020398", type: vless, server: 0b889c24f5229843.mechanicir.ir, port: 56625, uuid: "3b4529e8-9c14-4541-8388-fe90d737baeb", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "_By_EbraSha", type: vless, server: 0e39.ghgh.cf, port: 443, uuid: "61d399ad-593e-4307-9132-b32dc46be613", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 0e806ccdc7a782a3.instasup.ir, port: 2003, uuid: "b1f87df1-7527-44d1-b353-77dc829c6ef2", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "@ICV2RAY", type: vless, server: 0f8bb94047ad21f2.de-1.globalmymusic.com, port: 443, uuid: "fcc64e6f-bdcd-471a-a2d4-27c757578070", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
+  - {name: "4Mohsen-c5784cb9b3", type: vless, server: 0f8bb94047ad21f2.de-1.globalmymusic.com, port: 443, uuid: "fcc64e6f-bdcd-471a-a2d4-27c757578070", flow: "xtls-rprx-vision", tls: true, servername: "malaco.nl", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 0join.outline-vpn.cloud, port: 443, uuid: "8818f2ea-e919-4af7-a90e-d1c619423c9b", flow: "xtls-rprx-vision", tls: true, servername: "www.g2.com", network: "tcp"}
   - {name: "0488_____Unknown___VLESS___TG_", type: vless, server: 0ru84.tcpdoor.net, port: 443, uuid: "0f6c83bc-34ba-4ca1-96e6-08b3620cbce5", flow: "xtls-rprx-vision", tls: true, servername: "0ru84.tcpdoor.net", network: "tcp"}
   - {name: "[OpenRay]____BE-26", type: vless, server: 0u1b-m23jqv.jumpnest.top, port: 443, uuid: "4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f", flow: "xtls-rprx-vision", tls: true, servername: "www.bing.com", network: "tcp"}
@@ -125,6 +125,7 @@ proxies:
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 2053, uuid: "e480ec05-1570-4a7d-b377-c3a20f80afa8", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "grpc"}
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 2083, uuid: "ffcceeec-28e2-4117-aa24-7da55f88711f", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 22000, uuid: "c50b50c9-6868-4231-859a-691da85a2e60", flow: "xtls-rprx-vision", tls: true, servername: "www.yahoo.com", network: "tcp"}
+  - {name: "___ShatakVPN_385671", type: vless, server: 10.10.34.36, port: 23576, uuid: "48ff2b70-e180-582f-8866-d9a2edeed5f5", flow: "xtls-rprx-vision", tls: true, servername: "Telegram-Leviko_v2ray", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 443, uuid: "ed1f4216-380f-470d-8014-c66257825e97", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 56625, uuid: "d7955f3f-dfa3-45a0-a3ef-9693df439a0f", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "_By_EbraSha", type: vless, server: 10.10.34.36, port: 6300, uuid: "b1a689fa-20c3-43b4-a107-4af64f8a7cf3", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
@@ -273,7 +274,6 @@ proxies:
   - {name: "[35992][HK][0][VLESS][None][ex", type: vless, server: 103.160.204.1, port: 443, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
   - {name: "未知_0720201034", type: vless, server: 103.160.204.239, port: 2053, uuid: "a16a4119-c020-4c51-afa0-f81c0e05dafe", tls: true, network: "ws"}
   - {name: "未知_0720205034", type: vless, server: 103.160.204.239, port: 2096, uuid: "23ff3733-1de9-48b2-91dc-470d8155ab7d", tls: true, network: "ws"}
-  - {name: "未知_0720205261", type: vless, server: 103.160.204.239, port: 443, uuid: "1444b496-5c4d-4ac2-aa5c-8422d86113c7", tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
