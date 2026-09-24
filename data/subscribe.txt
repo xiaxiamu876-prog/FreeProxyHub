@@ -113,7 +113,6 @@ vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?type=ws&secur
 vless://e480ec05-1570-4a7d-b377-c3a20f80afa8@10.10.34.36:2053?type=grpc&security=tls&security=reality&flow=xtls-rprx-vision&sni=play.google.com&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&fp=firefox#IEJ5IEVicmFTaGE=
 vless://ffcceeec-28e2-4117-aa24-7da55f88711f@10.10.34.36:2083?type=ws&security=tls&sni=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&fp=chrome#IEJ5IEVicmFTaGE=
 vless://c50b50c9-6868-4231-859a-691da85a2e60@10.10.34.36:22000?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw#IEJ5IEVicmFTaGE=
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@10.10.34.36:23576?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=Telegram-Leviko_v2ray&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#8J+Ps++4jyBTaGF0YWtWUE4gMzg1Njcx
 vless://ed1f4216-380f-470d-8014-c66257825e97@10.10.34.36:443?type=ws&security=tls&sni=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&fp=chrome#IEJ5IEVicmFTaGE=
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@10.10.34.36:56625?type=grpc&security=tls&security=reality&flow=xtls-rprx-vision&sni=icloud.com&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios#IEJ5IEVicmFTaGE=
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@10.10.34.36:6300?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play.google.com&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&fp=qq#IEJ5IEVicmFTaGE=
@@ -198,3 +197,4 @@ vless://80e79dc0-ad8f-4008-a221-996252a6f15f@103.116.7.100:443?type=ws&security=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.103:2083?type=ws&security=tls&sni=edgc.aimercc.dpdns.org&fp=random#WzQxMzMyXVtVU11bMF1bVkxFU1NdW05vbmVdW2V4dF9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tXVsyMDI2LTA4LTE2XVsyMDI2LTA4LTE2IDAwOjM0XQ==
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in#IEJ5IEVicmFTaGE=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:443?type=ws&security=tls&sni=sni.111000.indevs.in#576O5Zu9XzA3MjAyMDIyNzc=
+vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.152:2096?type=ws&security=tls&sni=nicorobin.eula.cloudns.org#IFZMLVdTLVRMUyAgVVMtMTAzLjExNi43LjE1MjoyMDk2
