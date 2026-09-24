@@ -174,11 +174,14 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?type=grpc&securit
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@103.133.1.33:443?type=ws&security=tls&sni=cosi.bvzizx.com#WzIzMTU3XVtVU11bMF1bVkxFU1NdW05vbmVdW2V4dF9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tXVsyMDI2LTA4LTE2XVsyMDI2LTA4LTE2IDAwOjM0XQ==
 vless://42add63b-deda-4e71-aa48-ddd288181858@103.133.1.40:443?type=ws&security=tls&sni=edtunnel-eiz.pages.dev#576O5Zu9XzA3MjAyMDY3OQ==
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.136.146.73:443?type=ws&security=tls&sni=cdn8848.776676.xyz#W09wZW5SYXldIPCfh6bwn4e6IEFVLTE1MQ==
+vless://ea1c1e20-7263-4b08-a01b-690b29af66b3@103.137.215.122:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=T587xqua0Nrs0YreQRWJAP9Wto94NcbbhKPK4DkSi0c&fp=safari#8J+Hr/Cfh7Ug5pel5pysIHwgSlBO
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.137.22.71:443?type=ws&security=tls&sni=cdn8848.776676.xyz#NE1vaHNlbi1iOGI5NzlmMWY4
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@103.137.22.71:8443?type=ws&security=tls&sni=s5gydl.936.us.ci&fp=chrome#5Y+w5rm+XzA3MjAyMDAyNg==
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&fp=chrome#8J+UkiBWTC1UQ1AtUkxUIPCfh7nwn4e8IFRXLTEwMy4xMzcuMjQ3LjkyOjM0MDQ1
 vless://4d470e90-f0df-42ca-b49d-42a900d3e03e@103.137.248.227:443?type=ws&security=tls&sni=zeus-panel-1lyi5j.zeus-bgd2qb.workers.dev&fp=chrome#6I235YWwXzA3MjAyMDgwNQ==
 vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=tesla.com&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&fp=random#WzcwMDhdW1RXXVswXVtWTEVTU11bTm9uZV1bZXh0X3Jhdy5naXRodWJ1c2VyY29udGVudC5jb21dWzIwMjYtMDgtMTZdWzIwMjYtMDgtMTYgMDA6MzRd
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.21:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=auth.figmafound.org&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&fp=chrome#NE1vaHNlbi03ZjEwNDk1ZmFh
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.51:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=cloud.figmafound.org&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&fp=chrome#NE1vaHNlbi1iYmU2MTE2M2Nm
 vless://87ecd928-9831-416a-bf4d-25e441ffb4cf@103.143.81.124:3139?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&pbk=RYrYabqY07TQmF41ouUnBSjA6pDhUN4Ms7OKY-KrKh0&fp=chrome#SEvpppnmuK8obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKQ==
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.143.81.178:443?type=ws&security=tls&sni=shuma.ccwu.cc&fp=chrome#8J+HrfCfh7BfSEtf5Lit5Zu96aaZ5rivLT7wn4e48J+HrF9TR1/mlrDliqDlnaE=
 vless://322c0364-b447-45c2-a27c-250376170dc0@103.143.81.60:54030?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=www.ebay.com&pbk=1kifGOu6PhqrZmV4gK1XEmnKsq1Gcr9sqJYw4SQxujY&fp=chrome#SEvpppnmuK8obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKQ==
@@ -195,6 +198,3 @@ vless://23ff3733-1de9-48b2-91dc-470d8155ab7d@103.160.204.239:2096?type=ws&securi
 vless://1444b496-5c4d-4ac2-aa5c-8422d86113c7@103.160.204.239:443?type=ws&security=tls&sni=testing.bo2tabere30.ir&fp=chrome#5pyq55+lXzA3MjAyMDUyNjE=
 vless://c115c8c5-fa02-479b-8193-26f334e8e88b@103.160.204.239:8443?type=xhttp&security=tls&fp=chrome#IEJ5IEVicmFTaGE=
 vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.249:443?type=ws&security=tls&sni=ww23.sgxaniu.qzz.io&fp=chrome#8J+Ht/Cfh7ogUnVzc2lhLCBEb21vZGVkb3ZvIFtCTF0=
-vless://a16a4119-c020-4c51-afa0-f81c0e05dafe@103.160.204.34:2053?type=ws&security=tls&sni=ThesEkiNdOfWoUndStheyLastAndtHeyLast.FaiRiT.Ir#5pyq55+lXzA3MjAyMDE2Njk=
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?type=ws&security=tls&sni=vlee.amclubs.nyc.mn#8J+UkiBWTC1XUy1UTFMg8J+PtOKAjeKYoO+4jyBOQS0xMDMuMTYwLjIwNC4zNjoyMDg3
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@103.160.204.39:443?type=ws&security=tls&sni=myphotograpicpicture.ir#WzEzMDQ4XVtBVV1bMF1bVkxFU1NdW05vbmVdW2V4dF9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tXVsyMDI2LTA4LTE2XVsyMDI2LTA4LTE2IDAwOjM0XQ==
