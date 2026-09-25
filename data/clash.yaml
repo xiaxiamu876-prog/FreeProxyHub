@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-24 20:56:02
+# 更新时间: 2026-09-25 02:29:34
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -72,6 +72,7 @@ proxies:
   - {name: "4Nika-7bdf8e1dc3", type: vless, server: 1.iranazizm.com, port: 8443, uuid: "45ab962c-0e61-464b-ddc6-5fdd7338398f", tls: true, network: "xhttp"}
   - {name: "未知_VLESS-99___free-nodes", type: vless, server: 1.kkcweb.ir, port: 2083, uuid: "c805b05e-339d-40e0-8787-432d97a27345", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 1.next.westlaw.com, port: 8443, uuid: "24b04275-3faf-49dc-995a-916433bce6a9", tls: true, network: "xhttp"}
+  - {name: "___美国___USA", type: vless, server: 1.ppap.a1.zjs.ppt.998.kfc-520.com, port: 10002, uuid: "8cb0c4fb-03ee-35b8-a47b-cd1d7e76dfd3", flow: "xtls-rprx-vision", tls: true, servername: "www.nvidia.com", network: "tcp"}
   - {name: "US_2863_@Surfboardv2ray", type: vless, server: 1.schwan.ir, port: 443, uuid: "cbb4d9c9-6a8f-4acc-9aa1-2974015e0279", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "香港_072020037", type: vless, server: 1.sdwan.realm-sync.com, port: 54387, uuid: "48959fe8-4a5e-4996-bc87-8d66398e6860", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
   - {name: "香港_072020046", type: vless, server: 1.sdwan.realm-sync.com, port: 5454, uuid: "8faf6e38-0531-4d63-91f0-2aba5b9ff864", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
@@ -136,7 +137,6 @@ proxies:
   - {name: "[OpenRay]____DE-24439", type: vless, server: 103.109.234.61, port: 443, uuid: "b2593749-691c-428c-9481-14979cba3446", tls: true, network: "ws"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "印度_072020080", type: vless, server: 103.111.114.147, port: 8443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
-  - {name: "[v2rayNplus]", type: vless, server: 103.112.68.143, port: 8443, uuid: "8f409f4e-61ef-4550-9b0a-c95d11473f12", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
   - {name: "Reality__Яндекс_Карты_[V.O.I.D", type: vless, server: 103.112.69.234, port: 443, uuid: "69a2af58-d74a-44ca-864a-e09b493f4274", flow: "xtls-rprx-vision", tls: true, servername: "api-maps.yandex.ru", network: "tcp"}
   - {name: "_49@oneclickvpnkeys", type: vless, server: 103.112.70.124, port: 443, uuid: "a2415a12-3f92-4636-9823-9828d3ceb818", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.112.71.172, port: 7443, uuid: "0bef555b-b81f-41f4-a63b-f5707a303245", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
@@ -264,6 +264,8 @@ proxies:
   - {name: "[17924][AU][0][VLESS][None][ex", type: vless, server: 103.184.45.41, port: 443, uuid: "6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f", tls: true, network: "grpc"}
   - {name: "[27348][SG][0][VLESS][None][ex", type: vless, server: 103.190.178.195, port: 443, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
   - {name: "___[VL]_Молдова__4762___РосТун", type: vless, server: 103.192.179.132, port: 443, uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798", tls: true, network: "ws"}
+  - {name: "__SG_110_351KB_s_F003-260618_0", type: vless, server: 103.195.188.192, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
+  - {name: "__SG_109_326KB_s_F003-260618_0", type: vless, server: 103.195.188.206, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
@@ -308,8 +310,6 @@ proxies:
   - {name: "__SG-103.253.26.134-1285", type: vmess, server: 103.253.26.134, port: 443, uuid: "aba50dd4-5484-3b05-b14a-4661caf862d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__SG-103.253.26.20-1289", type: vmess, server: 103.253.26.20, port: 443, uuid: "aba50dd4-5484-3b05-b14a-4661caf862d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__VM-WS-TLS____JP-103.72.5.221", type: vmess, server: 103.72.5.221, port: 46666, uuid: "418048af-a293-4b99-9b0c-98ca3580dd24", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "未知_VMESS-1085___free-nodes", type: vmess, server: 104.105.18.214, port: 2053, uuid: "9a1a05d9-69be-45d3-e326-c6621edf7b31", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "[3310][DE][0][VMESS][None][Non", type: vmess, server: 104.105.28.164, port: 2053, uuid: "9a1a05d9-69be-45d3-e326-c6621edf7b31", alterId: 0, cipher: auto, tls: true, network: "ws"}
 
 proxy-groups:
   - name: "🚀 自动选择"
