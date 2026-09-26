@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-26 10:30:09
+# 更新时间: 2026-09-26 15:21:50
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -121,7 +121,7 @@ proxies:
   - {name: "_By_EbraSha", type: vless, server: 103.100.158.203, port: 443, uuid: "6a1f6c94-7785-42e2-9203-381d1f4db37e", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.100.158.25, port: 443, uuid: "8062e5ed-20b0-4304-b90b-e1652cfc72fa", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "___HK_中国香港", type: vless, server: 103.101.0.73, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
-  - {name: "___荷兰___NLD", type: vless, server: 103.102.228.113, port: 443, uuid: "7b102311-43fd-4e8f-877e-8090623c101d", tls: true, network: "ws"}
+  - {name: "__NL_191_2.1MB_s_T001-260618_0", type: vless, server: 103.102.228.113, port: 443, uuid: "7b102311-43fd-4e8f-877e-8090623c101d", tls: true, network: "ws"}
   - {name: "__VL-TCP-RLT____NL-103.102.228", type: vless, server: 103.102.228.71, port: 443, uuid: "6ba20a61-9ca7-4f9e-ac38-95f63c888a95", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "__VL-TCP-RLT____NL-103.102.228", type: vless, server: 103.102.228.99, port: 443, uuid: "6ba20a61-9ca7-4f9e-ac38-95f63c888a95", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "__VL-TCP-RLT____HK-103.103.245", type: vless, server: 103.103.245.218, port: 37730, uuid: "7c4ba50c-b313-42df-bf33-0121082a4d0b", flow: "xtls-rprx-vision", tls: true, servername: "759dvhk.wudiovv.mom", network: "tcp"}
@@ -138,7 +138,6 @@ proxies:
   - {name: "[OpenRay]____DE-24439", type: vless, server: 103.109.234.61, port: 443, uuid: "b2593749-691c-428c-9481-14979cba3446", tls: true, network: "ws"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "印度_072020080", type: vless, server: 103.111.114.147, port: 8443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
-  - {name: "vless-1511686762", type: vless, server: 103.112.68.78, port: 38291, uuid: "5e9b1e22-25c9-4a87-87ac-07302ba2f011", flow: "xtls-rprx-vision", tls: true, servername: "reality.airvpn.su", network: "tcp"}
   - {name: "Reality__Яндекс_Карты_[V.O.I.D", type: vless, server: 103.112.69.234, port: 443, uuid: "69a2af58-d74a-44ca-864a-e09b493f4274", flow: "xtls-rprx-vision", tls: true, servername: "api-maps.yandex.ru", network: "tcp"}
   - {name: "_49@oneclickvpnkeys", type: vless, server: 103.112.70.124, port: 443, uuid: "a2415a12-3f92-4636-9823-9828d3ceb818", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.112.71.172, port: 7443, uuid: "0bef555b-b81f-41f4-a63b-f5707a303245", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
@@ -266,6 +265,7 @@ proxies:
   - {name: "___[VL]_Молдова__4762___РосТун", type: vless, server: 103.192.179.132, port: 443, uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798", tls: true, network: "ws"}
   - {name: "__SG_110_351KB_s_F003-260618_0", type: vless, server: 103.195.188.192, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "__SG_109_326KB_s_F003-260618_0", type: vless, server: 103.195.188.206, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
+  - {name: "___Сингапур_17_Shock_Hosting_L", type: vless, server: 103.20.235.85, port: 707, uuid: "01f5d1e1-880f-4be5-974a-faf771b71a2e", flow: "xtls-rprx-vision", tls: true, servername: "www.twitch.tv", network: "xhttp"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
