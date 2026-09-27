@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-27 02:30:18
+# 更新时间: 2026-09-27 11:01:28
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -253,7 +253,6 @@ proxies:
   - {name: "越南_072020002", type: vless, server: 103.173.155.30, port: 443, uuid: "723af53a-b131-3270-8ce0-13f8ecaaa322", tls: true, network: "xhttp"}
   - {name: "@Venom_Servers__کانفیگ_رایگان_", type: vless, server: 103.175.79.10, port: 443, uuid: "49ed01ad-3bb4-204f-b0ff-a58f658fd618", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
   - {name: "none", type: vless, server: 103.175.79.2, port: 443, uuid: "7244a576-0680-ee46-acd8-55809ee12479", flow: "xtls-rprx-vision", tls: true, servername: "speed.cloudflare.com", network: "tcp"}
-  - {name: "澳大利亚_072020020", type: vless, server: 103.18.49.100, port: 443, uuid: "6e593426-1a8e-4226-984f-0ea174e218c7", tls: true, network: "ws"}
   - {name: "_VL-WS-TLS__SG-103.180.161.123", type: vless, server: 103.180.161.123, port: 587, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
   - {name: "_VL-WS-TLS__SG-103.180.161.69_", type: vless, server: 103.180.161.69, port: 587, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
   - {name: "4Kian-c07c36fcd6", type: vless, server: 103.184.44.62, port: 2053, uuid: "f775978b-6e22-41a8-ae5e-5f9779e6745f", tls: true, network: "ws"}
@@ -310,6 +309,7 @@ proxies:
   - {name: "__SG-103.253.26.20-1247", type: vmess, server: 103.253.26.20, port: 443, uuid: "aba50dd4-5484-3b05-b14a-4661caf862d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__VM-WS-TLS____JP-103.72.5.221", type: vmess, server: 103.72.5.221, port: 46666, uuid: "418048af-a293-4b99-9b0c-98ca3580dd24", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "未知_VMESS-1085___free-nodes", type: vmess, server: 104.105.18.214, port: 2053, uuid: "9a1a05d9-69be-45d3-e326-c6621edf7b31", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "[3310][DE][0][VMESS][None][Non", type: vmess, server: 104.105.28.164, port: 2053, uuid: "9a1a05d9-69be-45d3-e326-c6621edf7b31", alterId: 0, cipher: auto, tls: true, network: "ws"}
 
 proxy-groups:
   - name: "🚀 自动选择"
