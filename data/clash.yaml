@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-28 02:34:17
+# 更新时间: 2026-09-28 12:20:57
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -121,7 +121,7 @@ proxies:
   - {name: "_By_EbraSha", type: vless, server: 103.100.158.203, port: 443, uuid: "6a1f6c94-7785-42e2-9203-381d1f4db37e", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "_By_EbraSha", type: vless, server: 103.100.158.25, port: 443, uuid: "8062e5ed-20b0-4304-b90b-e1652cfc72fa", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "___HK_中国香港", type: vless, server: 103.101.0.73, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
-  - {name: "__NL_191_2.1MB_s_T001-260618_0", type: vless, server: 103.102.228.113, port: 443, uuid: "7b102311-43fd-4e8f-877e-8090623c101d", tls: true, network: "ws"}
+  - {name: "___荷兰___NLD", type: vless, server: 103.102.228.113, port: 443, uuid: "7b102311-43fd-4e8f-877e-8090623c101d", tls: true, network: "ws"}
   - {name: "__VL-TCP-RLT____NL-103.102.228", type: vless, server: 103.102.228.71, port: 443, uuid: "6ba20a61-9ca7-4f9e-ac38-95f63c888a95", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "__VL-TCP-RLT____NL-103.102.228", type: vless, server: 103.102.228.99, port: 443, uuid: "6ba20a61-9ca7-4f9e-ac38-95f63c888a95", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "__VL-TCP-RLT____HK-103.103.245", type: vless, server: 103.103.245.218, port: 37730, uuid: "7c4ba50c-b313-42df-bf33-0121082a4d0b", flow: "xtls-rprx-vision", tls: true, servername: "759dvhk.wudiovv.mom", network: "tcp"}
@@ -133,7 +133,6 @@ proxies:
   - {name: "___Germany____105", type: vless, server: 103.109.234.117, port: 2053, uuid: "45fa3af5-f92c-4aac-97e5-a1733687d10b", flow: "xtls-rprx-vision", tls: true, servername: "google.com", network: "xhttp"}
   - {name: "4Kian-03445582c5", type: vless, server: 103.109.234.129, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "dep.opngtr.nl", network: "tcp"}
   - {name: "4Kian-5c27585e33", type: vless, server: 103.109.234.166, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "dep.opngtr.nl", network: "tcp"}
-  - {name: "[32383][DE][0][VLESS][None][ex", type: vless, server: 103.109.234.243, port: 443, uuid: "ddf09ad0-02dc-485b-9048-1038de5bebf0", flow: "xtls-rprx-vision", tls: true, servername: "de10.delivery-4f1c.com", network: "tcp"}
   - {name: "__DE_188_1.0MB_s_B007-260618_0", type: vless, server: 103.109.234.246, port: 443, uuid: "ddf09ad0-02dc-485b-9048-1038de5bebf0", flow: "xtls-rprx-vision", tls: true, servername: "de10.delivery-4f1c.com", network: "tcp"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "印度_072020080", type: vless, server: 103.111.114.147, port: 8443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
@@ -265,6 +264,9 @@ proxies:
   - {name: "___[VL]_Молдова__4762___РосТун", type: vless, server: 103.192.179.132, port: 443, uuid: "06b65903-406d-4a41-8463-6fd5c0ee7798", tls: true, network: "ws"}
   - {name: "__SG_110_351KB_s_F003-260618_0", type: vless, server: 103.195.188.192, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "__SG_109_326KB_s_F003-260618_0", type: vless, server: 103.195.188.206, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
+  - {name: "___Сингапур_17_Shock_Hosting_L", type: vless, server: 103.20.235.85, port: 707, uuid: "01f5d1e1-880f-4be5-974a-faf771b71a2e", flow: "xtls-rprx-vision", tls: true, servername: "www.twitch.tv", network: "xhttp"}
+  - {name: "__AT_7_477KB_s_F003-260618_01", type: vless, server: 103.200.28.113, port: 8443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
+  - {name: "4Nika-9465", type: vless, server: 103.200.28.142, port: 7443, uuid: "89304de3-af59-4313-b18d-c93dadf54537", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
@@ -308,8 +310,6 @@ proxies:
   - {name: "__TR-103.215.218.222-7538", type: vmess, server: 103.215.218.222, port: 443, uuid: "03fcc618-b93d-6796-6aed-8a38c975d581", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__SG-103.253.26.134-1193", type: vmess, server: 103.253.26.134, port: 443, uuid: "aba50dd4-5484-3b05-b14a-4661caf862d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
   - {name: "__SG-103.253.26.20-1197", type: vmess, server: 103.253.26.20, port: 443, uuid: "aba50dd4-5484-3b05-b14a-4661caf862d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "__VM-WS-TLS____JP-103.72.5.221", type: vmess, server: 103.72.5.221, port: 46666, uuid: "418048af-a293-4b99-9b0c-98ca3580dd24", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "未知_VMESS-1085___free-nodes", type: vmess, server: 104.105.18.214, port: 2053, uuid: "9a1a05d9-69be-45d3-e326-c6621edf7b31", alterId: 0, cipher: auto, tls: true, network: "ws"}
 
 proxy-groups:
   - name: "🚀 自动选择"
