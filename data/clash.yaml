@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-28 22:45:34
+# 更新时间: 2026-09-29 03:16:27
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -161,7 +161,7 @@ proxies:
   - {name: "美国_072020914", type: vless, server: 103.116.7.42, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Russia__Cheremushki_[BL]", type: vless, server: 103.116.7.61, port: 2096, uuid: "12345678-1234-1234-1234-123456789123", tls: true, network: "ws"}
   - {name: "_VL-WS-TLS__US-103.116.7.67_20", type: vless, server: 103.116.7.67, port: 2083, uuid: "0d89a36e-36bc-41d2-8bd3-bbd639991f29", tls: true, network: "ws"}
-  - {name: "__NL_294_@Surfboardv2ray", type: vless, server: 103.118.208.112, port: 443, uuid: "06d05a0a-f298-4be9-8fab-3de32e3fb770", flow: "xtls-rprx-vision", tls: true, servername: "acnl.astro-wall.online", network: "tcp"}
+  - {name: "4FreeIran-804afb9035", type: vless, server: 103.118.208.112, port: 443, uuid: "06d05a0a-f298-4be9-8fab-3de32e3fb770", flow: "xtls-rprx-vision", tls: true, servername: "acnl.astro-wall.online", network: "tcp"}
   - {name: "__@v2ray_configs_pool_____Phil", type: vless, server: 103.118.208.134, port: 443, uuid: "505a1a16-2c67-4cbb-a5db-acde6627660b", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.118.254.37, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.118.41.121, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}

@@ -149,7 +149,7 @@ vless://42add63b-deda-4e71-aa48-ddd288181858@103.116.7.41:443?type=ws&security=t
 vless://26524cce-d514-4014-a426-365fb266a14d@103.116.7.42:443?type=ws&security=tls&sni=snippet.danfeng.rr.kg#576O5Zu9XzA3MjAyMDkxNA==
 vless://12345678-1234-1234-1234-123456789123@103.116.7.61:2096?type=ws&security=tls&sni=vless.hubp.de&fp=chrome#8J+Ht/Cfh7ogUnVzc2lhLCBDaGVyZW11c2hraSBbQkxd
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.67:2083?type=ws&security=tls&sni=nicorobin.eula.cloudns.org#IFZMLVdTLVRMUyAgVVMtMTAzLjExNi43LjY3OjIwODM=
-vless://06d05a0a-f298-4be9-8fab-3de32e3fb770@103.118.208.112:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=acnl.astro-wall.online&pbk=RMjWKm3Jj09ytfHD-90J0c3qdpQtjqJ4muUSAuF2eXQ&fp=chrome#8J+Hs/Cfh7FOTF8yOTRfQFN1cmZib2FyZHYycmF5
+vless://06d05a0a-f298-4be9-8fab-3de32e3fb770@103.118.208.112:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=acnl.astro-wall.online&pbk=RMjWKm3Jj09ytfHD-90J0c3qdpQtjqJ4muUSAuF2eXQ&fp=firefox#NEZyZWVJcmFuLTgwNGFmYjkwMzU=
 vless://505a1a16-2c67-4cbb-a5db-acde6627660b@103.118.208.134:443?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=play.google.com&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&fp=chrome#8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh7Xwn4etwq7vuI9QaGlsaXBwaW5lc8Kp77iPTWFuaWxh8J+Fv++4j3Bpbmc6MjYuNzhtcw==
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.118.254.37:443?type=ws&security=tls&sni=shuma.ccwu.cc&fp=chrome#SEvpppnmuK8obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKQ==
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@103.118.41.121:443?type=ws&security=tls&sni=shuma.ccwu.cc&fp=chrome#SEvpppnmuK8obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKQ==
