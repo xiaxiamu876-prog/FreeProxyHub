@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-10-03 20:20:28
+# 更新时间: 2026-10-04 03:23:36
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -16,14 +16,13 @@ proxies:
   - {name: "__FR_1358_398KB_s_01", type: vless, server: 002.inc-electrocell-001-002.workers.dev, port: 443, uuid: "36a857e4-f3d4-43aa-8b90-d7da849da989", tls: true, network: "ws"}
   - {name: "未知_0720201516", type: vless, server: 002.w4wl4v1cptky.workers.dev, port: 443, uuid: "72fc1188-430f-4a3c-a64e-af9023819899", tls: true, network: "ws"}
   - {name: "未知_0720201606", type: vless, server: 005.inc-electrocell-001-005-803.workers.dev, port: 443, uuid: "1ef3cee6-4b96-424b-9b46-fdf01927581d", tls: true, network: "ws"}
-  - {name: "15_UA_speednode_0118", type: vless, server: 005188006073.sec1org.com, port: 443, uuid: "7582e721-8c32-4fb1-8669-b3fae590f3eb", tls: true, network: "tcp"}
   - {name: "未知_070609044", type: vless, server: 00999.20220420.pp.ua, port: 443, uuid: "e4cbe8b8-37db-4aaa-8469-b84f34c51ebc", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___2fd491", type: vless, server: 01-qq.com, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "[2768][ES][0][VLESS][None][ext", type: vless, server: 0144e048e9e3dd74.neshatinjafood.ir, port: 443, uuid: "14ffccc6-81e0-4108-ab35-b3df398534af", flow: "xtls-rprx-vision", tls: true, servername: "play-apps-features.googleusercontent.com", network: "tcp"}
   - {name: "未知_072020755", type: vless, server: 017.electrocellco-cf-017.workers.dev, port: 443, uuid: "b74bbaca-8bbe-41e1-9af9-18d467836282", tls: true, network: "ws"}
   - {name: "未知_072020341", type: vless, server: 019.electrocellco-cf-019.workers.dev, port: 443, uuid: "94671f42-fdd3-4503-a3e6-bda4a2527560", tls: true, network: "ws"}
   - {name: "未知_0720204078", type: vless, server: 025.electrocellco-cf-025.workers.dev, port: 2053, uuid: "0b93fd13-de5c-4ca5-8530-435bfa2a0955", tls: true, network: "ws"}
-  - {name: "_机场推荐_https___a0a.xyz__88", type: vless, server: 026.electrocellco-cf-026.workers.dev, port: 443, uuid: "064059ce-23b9-45d3-953d-57d4c5092874", tls: true, network: "ws"}
+  - {name: "未知_0720204762", type: vless, server: 026.electrocellco-cf-026.workers.dev, port: 443, uuid: "064059ce-23b9-45d3-953d-57d4c5092874", tls: true, network: "ws"}
   - {name: "[477ms", type: vless, server: 031c1bf3e9d44591.mechanicir.ir, port: 56625, uuid: "8ddb745a-2e59-4085-85b7-9284ac6bc535", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "未知_VLESS-803___free-nodes", type: vless, server: 033bc9be-tkyw00-tpda83-1lkbs.hk3.hyhuawei.com, port: 443, uuid: "5a4c13ae-6673-11ee-a149-f23c9164ca5d", flow: "xtls-rprx-vision", tls: true, servername: "updates.cdn-apple.com", network: "tcp"}
   - {name: "__FR_2128_677KB_s_C002-260622_", type: vless, server: 0406.infinityconfig7.workers.dev, port: 2053, uuid: "d682c8f4-e719-577e-cbe9-2e5b00000001", tls: true, network: "ws"}
@@ -46,8 +45,7 @@ proxies:
   - {name: "XX", type: vless, server: 0710-bbb.kovira2.ir, port: 2053, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "grpc"}
   - {name: "XX", type: vless, server: 0710-bbb.kovira2.ir, port: 2083, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "080f2d83dbd8fefe.jobwebs.ir_50", type: vless, server: 080f2d83dbd8fefe.jobwebs.ir, port: 50567, uuid: "70cde8b3-4e69-4a82-9188-0262924ae8c6", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "__US_5_2.4MB_s", type: vless, server: 08183979-836e-ac85-15db-8a5a48eae531-production-abf6.up.railway.app, port: 443, uuid: "", tls: true, network: "ws"}
-  - {name: "1___20____5.2MB_s", type: vless, server: 086404.xyz, port: 1024, uuid: "1c7e80bd-1057-4417-ae1b-7267a6b167fa", tls: true, network: "tcp"}
+  - {name: "美国_0720203621", type: vless, server: 08183979-836e-ac85-15db-8a5a48eae531-production-abf6.up.railway.app, port: 443, uuid: "88888888-8888-8888-8888-888888888888", tls: true, network: "ws"}
   - {name: "4Jadi-01b20cc7f1", type: vless, server: 09303582303.ddns.net, port: 443, uuid: "7d3b945d-0f23-4719-9fae-50033251e2fd", tls: true, network: "ws"}
   - {name: "[0_0_0_0_0_ffff_05b5_1743]_443", type: vless, server: [0:0:0:0:0:ffff:05b5:1743], port: 443, uuid: "I_Love__SSHMax_b716c16", tls: true, network: "grpc"}
   - {name: "[0_0_0_0_0_ffff_05fc_17ad]_443", type: vless, server: [0:0:0:0:0:ffff:05fc:17ad], port: 443, uuid: "I_Love__SSHMax_86349d6", tls: true, network: "grpc"}
@@ -58,12 +56,10 @@ proxies:
   - {name: "法国_072020398", type: vless, server: 0b889c24f5229843.mechanicir.ir, port: 56625, uuid: "3b4529e8-9c14-4541-8388-fe90d737baeb", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "REALITY___@PulseConfigs___fc14", type: vless, server: 0e05f970-tki800-traezq-1t5n1.hk2.hyhuawei.com, port: 443, uuid: "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b", flow: "xtls-rprx-vision", tls: true, servername: "download.windowsupdate.com", network: "tcp"}
   - {name: "0e806ccdc7a782a3.instasup.ir_2", type: vless, server: 0e806ccdc7a782a3.instasup.ir, port: 2003, uuid: "b1f87df1-7527-44d1-b353-77dc829c6ef2", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "__HK_1_1.1MB_s", type: vless, server: 0ef3bbe2-tl4g00-tzxeoy-hns7.hk3.hyhuawei.com, port: 443, uuid: "6857f1bc-f27b-11ea-87ad-f23c913c8d2b", tls: true, network: "tcp"}
   - {name: "VLESS___@PulseConfigs___946b85", type: vless, server: 0nlysms.ir, port: 443, uuid: "cf39fab0-bb85-42cb-9945-2ad69d78e575", tls: true, network: "ws"}
   - {name: "0488_____Unknown___VLESS___TG_", type: vless, server: 0ru84.tcpdoor.net, port: 443, uuid: "0f6c83bc-34ba-4ca1-96e6-08b3620cbce5", flow: "xtls-rprx-vision", tls: true, servername: "0ru84.tcpdoor.net", network: "tcp"}
   - {name: "0u1b-m23jqv.jumpnest.top_443", type: vless, server: 0u1b-m23jqv.jumpnest.top, port: 443, uuid: "4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f", flow: "xtls-rprx-vision", tls: true, servername: "www.bing.com", network: "tcp"}
   - {name: "[6504][US][0][VLESS][None][ext", type: vless, server: 0vgx63a3.helpower.ir, port: 8443, uuid: "29758bab-b53f-49a5-9aca-2ebf4f5c2f96", flow: "xtls-rprx-vision", tls: true, servername: "www.samsung.com", network: "tcp"}
-  - {name: "C_-____US_13_TG__@nodpai", type: vless, server: 1-3mob.uiapp.shop, port: 443, uuid: "63a45bd0-02f3-4a0a-97c8-6b043bfe59bf", tls: true, network: "tcp"}
   - {name: "香港_072020010", type: vless, server: 1-hk.ap.ku-ke.cc, port: 2000, uuid: "680c97a6-141d-49a8-9407-a6dc71deae04", flow: "xtls-rprx-vision", tls: true, servername: "cdn.jsdelivr.net", network: "tcp"}
   - {name: "香港_072020011", type: vless, server: 1-hk.ap.ku-ke.cc, port: 2001, uuid: "680c97a6-141d-49a8-9407-a6dc71deae04", flow: "xtls-rprx-vision", tls: true, servername: "fonts.gstatic.com", network: "tcp"}
   - {name: "___Osaka__JP___IT7_Networks___", type: vless, server: 1-jp.ap.ku-ke.cc, port: 443, uuid: "d03c34c3-98fa-42ff-80a8-6ea1d0b24ac9", flow: "xtls-rprx-vision", tls: true, servername: "cdn.jsdelivr.net", network: "tcp"}
@@ -77,47 +73,27 @@ proxies:
   - {name: "NUKCROW", type: vless, server: 1.1.1.1, port: 2053, uuid: "0d974d97-fc0f-4e31-9f86-d4972c37b565", tls: true, network: "xhttp"}
   - {name: "4Mohsen-7c660ef508", type: vless, server: 1.1.1.1, port: 443, uuid: "00000000-0000-0000-0000-000000000000", tls: true, network: "ws"}
   - {name: "未知_0720205115", type: vless, server: 1.1.1.74, port: 2083, uuid: "8525fe74-67e6-4a55-8a26-95f227bd1384", tls: true, network: "ws"}
-  - {name: "__TW_4_3.4MB_s", type: vless, server: 1.161.48.13, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
-  - {name: "B_-____TW_11_TG__@nodpai", type: vless, server: 1.161.50.107, port: 443, uuid: "efdf452e-0f4e-4f14-ae07-0da3b8cb623b", tls: true, network: "tcp"}
-  - {name: "B_-____TW_02_TG__@nodpai", type: vless, server: 1.161.50.87, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
-  - {name: "A_-____TW_01_TG__@nodpai", type: vless, server: 1.161.52.121, port: 443, uuid: "efdf452e-0f4e-4f14-ae07-0da3b8cb623b", tls: true, network: "tcp"}
-  - {name: "B_-____TW_25_TG__@nodpai", type: vless, server: 1.161.52.57, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
-  - {name: "__TW_2_2.6MB_s", type: vless, server: 1.161.63.21, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "___Taipei__TW___Data_Communica", type: vless, server: 1.162.51.106, port: 37898, uuid: "ec302de4-6b3d-4f03-a228-3c6d303ed370", flow: "xtls-rprx-vision", tls: true, servername: "www.yahoo.com", network: "tcp"}
-  - {name: "韩国_首尔CJ-HELLOVISION", type: vless, server: 1.177.49.132, port: 50000, uuid: "689e5c9c-3c97-4eaf-9716-287dffa6afe0", tls: true, network: "ws"}
-  - {name: "3___42____2.8MB_s_3__Netflix_D", type: vless, server: 1.19990409.xyz, port: 65526, uuid: "6286ecbd-29c3-4e94-9494-dcccae30b498", tls: true, network: "tcp"}
-  - {name: "14_US_speednode_0059", type: vless, server: 1.19990409.xyz, port: 65527, uuid: "1df2c193-31f0-4643-9ac7-6283e248399d", tls: true, network: "tcp"}
-  - {name: "14_US_speednode_0063", type: vless, server: 1.19990409.xyz, port: 65528, uuid: "3c96949f-d73f-4a38-9f6e-ba47a8e0f6bb", tls: true, network: "tcp"}
-  - {name: "12_KR_speednode_0116", type: vless, server: 1.220.146.22, port: 30027, uuid: "7509f896-2115-4420-b487-501c9103bebd", tls: true, network: "ws"}
+  - {name: "___Changhua__TW___Data_Communi", type: vless, server: 1.168.191.235, port: 8443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "韩国_072020137", type: vless, server: 1.227.49.246, port: 29090, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
-  - {name: "KR_speednode_0011", type: vless, server: 1.236.186.119, port: 15546, uuid: "00000000-0000-4000-8000-000000000000", tls: true, network: "ws"}
-  - {name: "A_-____KR_01_TG__@nodpai", type: vless, server: 1.236.186.119, port: 16000, uuid: "ae0dd58e-e222-40bf-84ae-365a97532737", tls: true, network: "ws"}
-  - {name: "A_-____JP_02_TG__@nodpai", type: vless, server: 1.249.45.86, port: 12799, uuid: "00000000-0000-4000-8000-000000000000", tls: true, network: "ws"}
-  - {name: "A_-____JP_02_TG__@nodpai", type: vless, server: 1.249.45.86, port: 12877, uuid: "00000000-0000-4000-8000-000000000000", tls: true, network: "ws"}
-  - {name: "A_-____SG_05_TG__@nodpai", type: vless, server: 1.249.45.86, port: 15225, uuid: "00000000-0000-4000-8000-000000000000", tls: true, network: "ws"}
-  - {name: "B_-____US_08_TG__@nodpai", type: vless, server: 1.254.106.110, port: 18789, uuid: "2bec5cd4-b4c5-47d7-b2ce-ce3589764f89", tls: true, network: "ws"}
-  - {name: "__KR_6_1.4MB_s", type: vless, server: 1.254.8.60, port: 18790, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
-  - {name: "HK_speednode_0003", type: vless, server: 1.36.189.217, port: 10122, uuid: "7f60f6e7-8419-4cff-9e1b-14179f677a5e", tls: true, network: "tcp"}
   - {name: "1.65.209.123_443", type: vless, server: 1.65.209.123, port: 443, uuid: "06e4425e-a8cb-4b63-929f-2105604ab0a9", tls: true, network: "ws"}
-  - {name: "LV_机场推荐_https___a0a.xyz_9", type: vless, server: 1.admin.knserver.com.tr, port: 45761, uuid: "880079b1-57d0-4af2-9331-30b24cb7b514", tls: true, network: "ws"}
   - {name: "@npv_vpn11", type: vless, server: 1.cdnconn.com, port: 23335, uuid: "e384913f-8863-47b4-8858-a84b68abb4a6", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
   - {name: "[5617][UnResolvedDomains][0][V", type: vless, server: 1.clubban.ir, port: 2083, uuid: "23240094-d544-6d31-94d5-2416b8ef9dc2", tls: true, network: "tcp"}
-  - {name: "未知_100318171", type: vless, server: 1.i0-4.De5.nEt, port: 443, uuid: "62e499fe-458e-47da-a0c8-cae69144ebe9", tls: true, network: "ws"}
+  - {name: "未知_100402828", type: vless, server: 1.i0-4.De5.nEt, port: 443, uuid: "62e499fe-458e-47da-a0c8-cae69144ebe9", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___9a3ccc", type: vless, server: 1.i0-4.de5.net, port: 443, uuid: "62e499fe-458e-47da-a0c8-cae69144ebe9", tls: true, network: "ws"}
   - {name: "4Nika-7bdf8e1dc3", type: vless, server: 1.iranazizm.com, port: 8443, uuid: "45ab962c-0e61-464b-ddc6-5fdd7338398f", tls: true, network: "xhttp"}
   - {name: "未知_VLESS-99___free-nodes", type: vless, server: 1.kkcweb.ir, port: 2083, uuid: "c805b05e-339d-40e0-8787-432d97a27345", tls: true, network: "ws"}
-  - {name: "__DE_3_1.0MB_s", type: vless, server: 1.lapis-lazuli.tech, port: 443, uuid: "0dd339d3-0b51-4582-94ec-ffd2397be1ab", tls: true, network: "tcp"}
   - {name: "1.next.westlaw.com_8443", type: vless, server: 1.next.westlaw.com, port: 8443, uuid: "24b04275-3faf-49dc-995a-916433bce6a9", tls: true, network: "xhttp"}
   - {name: "REALITY___@PulseConfigs___eba7", type: vless, server: 1.ppap.a1.zjs.ppt.998.kfc-520.com, port: 10002, uuid: "8cb0c4fb-03ee-35b8-a47b-cd1d7e76dfd3", flow: "xtls-rprx-vision", tls: true, servername: "www.nvidia.com", network: "tcp"}
   - {name: "US_2863_@Surfboardv2ray", type: vless, server: 1.schwan.ir, port: 443, uuid: "cbb4d9c9-6a8f-4acc-9aa1-2974015e0279", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "瑞士_V2CROSS.COM", type: vless, server: 1.sdwan.realm-sync.com, port: 54387, uuid: "da4f61d1-8ca2-4bbf-a79a-1dfff04073e6", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
-  - {name: "__JP_1_1.3MB_s", type: vless, server: 1.sdwan.realm-sync.com, port: 5454, uuid: "da4f61d1-8ca2-4bbf-a79a-1dfff04073e6", tls: true, network: "tcp"}
-  - {name: "瑞士_V2CROSS.COM", type: vless, server: 1.sdwan.realm-sync.com, port: 5457, uuid: "e0c3a80e-6290-4c29-9605-fbd6c4fb3322", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
+  - {name: "香港_072020037", type: vless, server: 1.sdwan.realm-sync.com, port: 54387, uuid: "48959fe8-4a5e-4996-bc87-8d66398e6860", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
+  - {name: "香港_072020046", type: vless, server: 1.sdwan.realm-sync.com, port: 5454, uuid: "8faf6e38-0531-4d63-91f0-2aba5b9ff864", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
+  - {name: "香港_072020125", type: vless, server: 1.sdwan.realm-sync.com, port: 5457, uuid: "da4f61d1-8ca2-4bbf-a79a-1dfff04073e6", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
   - {name: "___HK_中国香港-____SG_新加坡", type: vless, server: 1.sdwan.realm-sync.com, port: 55567, uuid: "da4f61d1-8ca2-4bbf-a79a-1dfff04073e6", tls: true, network: "tcp"}
-  - {name: "__HK_2_1.5MB_s", type: vless, server: 1.sdwan.realm-sync.com, port: 58712, uuid: "da4f61d1-8ca2-4bbf-a79a-1dfff04073e6", tls: true, network: "tcp"}
-  - {name: "__US_3_2.5MB_s", type: vless, server: 1.sdwan.realm-sync.com, port: 60776, uuid: "e0c3a80e-6290-4c29-9605-fbd6c4fb3322", tls: true, network: "tcp"}
+  - {name: "香港_072020040", type: vless, server: 1.sdwan.realm-sync.com, port: 58712, uuid: "48959fe8-4a5e-4996-bc87-8d66398e6860", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
+  - {name: "香港_072020047", type: vless, server: 1.sdwan.realm-sync.com, port: 60776, uuid: "8faf6e38-0531-4d63-91f0-2aba5b9ff864", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
   - {name: "1.seysisi.ir_443", type: vless, server: 1.seysisi.ir, port: 443, uuid: "cbb4d9c9-6a8f-4acc-9aa1-2974015e0279", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "__[openproxylist.com]", type: vless, server: 1.tls.fastly.veraspeed.ir, port: 443, uuid: "891710f4-45f3-41b1-99a6-6f1510f83c10", tls: true, network: "ws"}
+  - {name: "[94002]", type: vless, server: 1.tls.fastly.veraspeed.ir, port: 443, uuid: "891710f4-45f3-41b1-99a6-6f1510f83c10", tls: true, network: "ws"}
   - {name: "[533ms", type: vless, server: 1.tstbarber.ir, port: 443, uuid: "1c87aa46-693f-4070-8809-53c1124cc99c", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "1.windscribe.cam_2087", type: vless, server: 1.windscribe.cam, port: 2087, uuid: "6e643b53-f30a-443d-a069-c5826f365403", tls: true, network: "ws"}
   - {name: "10.10.34.36_2083", type: vless, server: 10.10.34.36, port: 2083, uuid: "ffcceeec-28e2-4117-aa24-7da55f88711f", tls: true, network: "ws"}
@@ -126,31 +102,23 @@ proxies:
   - {name: "10.10.34.36_56625", type: vless, server: 10.10.34.36, port: 56625, uuid: "d7955f3f-dfa3-45a0-a3ef-9693df439a0f", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "grpc"}
   - {name: "10.10.34.36_8443", type: vless, server: 10.10.34.36, port: 8443, uuid: "48e350ab-1507-40cb-bac1-349bc2640bca", tls: true, network: "ws"}
   - {name: "__", type: vless, server: 10.vles.space, port: 510, uuid: "f3d08978-e457-43a3-b062-d74e4328833d", flow: "xtls-rprx-vision", tls: true, servername: "cdn.vkvideo.ru", network: "tcp"}
-  - {name: "__US_5_2.6MB_s", type: vless, server: 100.21.232.129, port: 9997, uuid: "c9399d16-a0ae-451a-d069-39280bc363f4", tls: true, network: "ws"}
+  - {name: "美国_072020674", type: vless, server: 100.21.232.129, port: 9997, uuid: "c9399d16-a0ae-451a-d069-39280bc363f4", tls: true, network: "ws"}
   - {name: "美国_072020778", type: vless, server: 100.22.77.114, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
-  - {name: "1_14_US_speednode_0107", type: vless, server: 100.24.49.8, port: 443, uuid: "7f93e196-1b2f-4a42-8051-5815554c05db", tls: true, network: "tcp"}
-  - {name: "3___73____4.2MB_s_30__Openai", type: vless, server: 100.24.71.29, port: 443, uuid: "7f93e196-1b2f-4a42-8051-5815554c05db", tls: true, network: "tcp"}
-  - {name: "US_speednode_0020", type: vless, server: 1002.952326.xyz, port: 10001, uuid: "e5fdf52f-fc09-4196-a588-008926767195", tls: true, network: "tcp"}
-  - {name: "US_speednode_0013", type: vless, server: 1002.kingfisher.top, port: 10000, uuid: "f890f843-9271-4178-9d5f-1adceb3bbe74", tls: true, network: "tcp"}
+  - {name: "__16____4.2MB_s_Openai", type: vless, server: 100.24.71.29, port: 443, uuid: "7f93e196-1b2f-4a42-8051-5815554c05db", tls: true, network: "tcp"}
   - {name: "__JP_64_239KB_s_F003-260618_01", type: vless, server: 101.142.129.72, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "101.32.15.176_443", type: vless, server: 101.32.15.176, port: 443, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
   - {name: "___Singapore__SG___Tencent_Bui", type: vless, server: 101.32.168.155, port: 28443, uuid: "f64bdc57-0f54-4705-bf75-cfd646d98c06", tls: true, network: "ws"}
-  - {name: "_机场推荐_https___a0a.xyz__28", type: vless, server: 101.32.72.125, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___afac11", type: vless, server: 101.33.45.201, port: 54321, uuid: "03d73bc8-01a9-46a7-90b9-3d27065ed328", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___24acf3", type: vless, server: 101.33.75.233, port: 39738, uuid: "03d73bc8-01a9-46a7-90b9-3d27065ed328", tls: true, network: "ws"}
   - {name: "___Singapore___Tencent_Buildin", type: vless, server: 101.33.80.58, port: 8443, uuid: "8344360f-0349-4784-a19f-33fd92e89389", tls: true, network: "ws"}
-  - {name: "C_-____JP_25_TG__@nodpai", type: vless, server: 101.36.105.226, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "4Nika-7f4cc773a3", type: vless, server: 101.36.118.159, port: 9988, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
   - {name: "___China___CHINA_UNICOM_China1", type: vless, server: 101.69.122.102, port: 443, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
   - {name: "___South_Korea___Meteverse_Lim", type: vless, server: 101.79.165.113, port: 443, uuid: "6202b230-417c-4d8e-b624-0f71afa9c75d", tls: true, network: "ws"}
   - {name: "___[БС-VL]_Тайвань__9234___Рос", type: vless, server: 101.99.91.209, port: 443, uuid: "5c90ba85-fa28-4437-8561-4fab86beccaa", flow: "xtls-rprx-vision", tls: true, servername: "hls-svod.itunes.apple.com", network: "tcp"}
-  - {name: "__NL_4_2.5MB_s", type: vless, server: 1010101.vip, port: 8082, uuid: "53b7fdec-4ccb-481a-8d98-83aa19509330", tls: true, network: "grpc"}
   - {name: "101reel.com_443", type: vless, server: 101reel.com, port: 443, uuid: "b55ec078-3b17-4ed1-a697-71f464cdcaaa", tls: true, network: "ws"}
   - {name: "美国_0706092081", type: vless, server: 102.129.165.116, port: 443, uuid: "a6a2d661-0ddf-5df2-b3c8-c039115c1304", tls: true, network: "ws"}
   - {name: "REALITY___@PulseConfigs___3ed4", type: vless, server: 102.129.165.81, port: 48905, uuid: "3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd", flow: "xtls-rprx-vision", tls: true, servername: "gaming.radeon.com", network: "tcp"}
   - {name: "南非_070609019", type: vless, server: 102.132.188.168, port: 8880, uuid: "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf", tls: true, network: "ws"}
-  - {name: "ZA_speednode_0038", type: vless, server: 102.132.188.54, port: 2096, uuid: "12345678-1234-1234-1234-123456789123", tls: true, network: "ws"}
-  - {name: "B_-____JP_10_TG__@nodpai", type: vless, server: 102.134.48.83, port: 443, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "__JP_61_436KB_s_F003-260618_01", type: vless, server: 102.134.49.108, port: 8443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "南非_070609020", type: vless, server: 102.177.176.168, port: 8880, uuid: "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf", tls: true, network: "ws"}
   - {name: "南非_072020018", type: vless, server: 102.177.176.20, port: 443, uuid: "7612dd26-d0ce-4fe0-be7c-d093bb8645da", tls: true, network: "ws"}
@@ -160,14 +128,14 @@ proxies:
   - {name: "南非_072020010", type: vless, server: 102.177.176.42, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Russia__Cheremushki_[BL]", type: vless, server: 102.177.176.61, port: 2096, uuid: "12345678-1234-1234-1234-123456789123", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 102.177.189.146, port: 443, uuid: "71ed6628-5870-4d19-8a52-f2a3ba3d4898", tls: true, network: "ws"}
-  - {name: "_", type: vless, server: 102.177.189.251, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
+  - {name: "[10205][ZA][0][VLESS][None][ex", type: vless, server: 102.177.189.251, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
   - {name: "_", type: vless, server: 102.177.189.29, port: 2096, uuid: "187b6dee-d77a-4ad9-b7d6-79e496ee9c05", tls: true, network: "ws"}
   - {name: "102.177.189.29_443", type: vless, server: 102.177.189.29, port: 443, uuid: "42795c1c-acab-46f5-8c10-a86de801411b", tls: true, network: "ws"}
+  - {name: "__", type: vless, server: 102.208.217.201, port: 443, uuid: "ff35ca20-2304-4b3a-80e5-2c82953cf2ce", flow: "xtls-rprx-vision", tls: true, servername: "sa201.mech-pro.online", network: "tcp"}
   - {name: "102.211.56.29_443", type: vless, server: 102.211.56.29, port: 443, uuid: "5d4a87fa-16f1-4b65-b217-225a31e36239", flow: "xtls-rprx-vision", tls: true, servername: "za.convert-flow.net", network: "tcp"}
   - {name: "102.68.86.223_8443", type: vless, server: 102.68.86.223, port: 8443, uuid: "497631c4-a1a4-004d-a86a-f42873473bb6", flow: "xtls-rprx-vision", tls: true, servername: "auto.quattro-tech.ru", network: "tcp"}
-  - {name: "__JP_2_1.0MB_s", type: vless, server: 103.100.158.10, port: 443, uuid: "6a1f6c94-7785-42e2-9203-381d1f4db37e", tls: true, network: "tcp"}
-  - {name: "__JP_4_1.2MB_s", type: vless, server: 103.100.158.180, port: 443, uuid: "51336138-2480-485a-8723-b6a688b69b14", tls: true, network: "tcp"}
-  - {name: "A_-____SG_02_TG__@nodpai", type: vless, server: 103.100.158.202, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
+  - {name: "103.100.158.180_443", type: vless, server: 103.100.158.180, port: 443, uuid: "51336138-2480-485a-8723-b6a688b69b14", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
+  - {name: "___[БС-VL]_Черногория__10149__", type: vless, server: 103.100.158.202, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "103.100.158.203_443", type: vless, server: 103.100.158.203, port: 443, uuid: "6a1f6c94-7785-42e2-9203-381d1f4db37e", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "103.100.158.25_443", type: vless, server: 103.100.158.25, port: 443, uuid: "8062e5ed-20b0-4304-b90b-e1652cfc72fa", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "___HK_中国香港", type: vless, server: 103.101.0.73, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
@@ -186,28 +154,21 @@ proxies:
   - {name: "4Kian-03445582c5", type: vless, server: 103.109.234.129, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "dep.opngtr.nl", network: "tcp"}
   - {name: "REALITY___@PulseConfigs___d559", type: vless, server: 103.109.234.14, port: 8443, uuid: "932fbc77-4dff-4607-8b69-50d6580331a3", flow: "xtls-rprx-vision", tls: true, servername: "ign.com", network: "tcp"}
   - {name: "4Kian-5c27585e33", type: vless, server: 103.109.234.166, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "dep.opngtr.nl", network: "tcp"}
-  - {name: "澳大利亚_V2CROSS.COM", type: vless, server: 103.109.234.199, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "de.savesafe.cc", network: "tcp"}
   - {name: "__DE_188_1.0MB_s_B007-260618_0", type: vless, server: 103.109.234.246, port: 443, uuid: "ddf09ad0-02dc-485b-9048-1038de5bebf0", flow: "xtls-rprx-vision", tls: true, servername: "de10.delivery-4f1c.com", network: "tcp"}
-  - {name: "__", type: vless, server: 103.110.65.203, port: 2040, uuid: "17451fec-af94-4715-8c2f-7f6839130d0a", flow: "xtls-rprx-vision", tls: true, servername: "tradingview.com", network: "tcp"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Mumbai__IN___Melbikomas_UAB", type: vless, server: 103.111.114.147, port: 443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
-  - {name: "15_CN_speednode_0002", type: vless, server: 103.112.184.7, port: 587, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
-  - {name: "103.112.68.84_443", type: vless, server: 103.112.68.84, port: 443, uuid: "40de6299-d792-4868-8a82-411ead0aa943", flow: "xtls-rprx-vision", tls: true, servername: "gateway.icloud.com", network: "tcp"}
-  - {name: "103.112.69.208_443", type: vless, server: 103.112.69.208, port: 443, uuid: "40de6299-d792-4868-8a82-411ead0aa943", flow: "xtls-rprx-vision", tls: true, servername: "gateway.icloud.com", network: "tcp"}
-  - {name: "__CZ_1_2.4MB_s", type: vless, server: 103.112.69.234, port: 443, uuid: "69a2af58-d74a-44ca-864a-e09b493f4274", tls: true, network: "tcp"}
+  - {name: "Reality__Яндекс_Карты_[V.O.I.D", type: vless, server: 103.112.69.234, port: 443, uuid: "69a2af58-d74a-44ca-864a-e09b493f4274", flow: "xtls-rprx-vision", tls: true, servername: "api-maps.yandex.ru", network: "tcp"}
   - {name: "_49@oneclickvpnkeys", type: vless, server: 103.112.70.124, port: 443, uuid: "a2415a12-3f92-4636-9823-9828d3ceb818", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
-  - {name: "__HK_1_1.5MB_s", type: vless, server: 103.112.71.172, port: 7443, uuid: "89304de3-af59-4313-b18d-c93dadf54537", tls: true, network: "tcp"}
+  - {name: "103.112.71.172_7443", type: vless, server: 103.112.71.172, port: 7443, uuid: "0bef555b-b81f-41f4-a63b-f5707a303245", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
   - {name: "103.112.71.228_443", type: vless, server: 103.112.71.228, port: 443, uuid: "665c11ef-4723-4396-a8a1-45d013e68e6b", tls: true, network: "tcp"}
   - {name: "4FreeIran-b11126b621", type: vless, server: 103.112.71.83, port: 443, uuid: "f82332b2-dc8c-4196-ac12-f276e37e278a", flow: "xtls-rprx-vision", tls: true, servername: "/?BIA_TELEGRAM@leviconfigs_leviconfigs", network: "tcp"}
-  - {name: "__NL_6_1.9MB_s", type: vless, server: 103.112.71.85, port: 443, uuid: "f82332b2-dc8c-4196-ac12-f276e37e278a", tls: true, network: "tcp"}
   - {name: "0685______Russia___VLESS___TG_", type: vless, server: 103.113.68.85, port: 8443, uuid: "d5cbc1d3-5427-4b06-a095-9aa6726b095c", flow: "xtls-rprx-vision", tls: true, servername: "content.fasssst.ru", network: "tcp"}
   - {name: "___Tokyo__JP___Baxet_Group___1", type: vless, server: 103.115.18.22, port: 8443, uuid: "3a2e03e2-90be-4037-9705-1abdc0d5424a", flow: "xtls-rprx-vision", tls: true, servername: "ign.dev", network: "tcp"}
   - {name: "__JP_52_460KB_s_F003-260618_01", type: vless, server: 103.115.18.54, port: 443, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.100, port: 443, uuid: "80e79dc0-ad8f-4008-a221-996252a6f15f", tls: true, network: "ws"}
-  - {name: "1___19____1.2MB_s", type: vless, server: 103.116.7.103, port: 2083, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
+  - {name: "[41332][US][0][VLESS][None][ex", type: vless, server: 103.116.7.103, port: 2083, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.138, port: 443, uuid: "6202b230-417c-4d8e-b624-0f71afa9c75d", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.152, port: 2096, uuid: "0d89a36e-36bc-41d2-8bd3-bbd639991f29", tls: true, network: "ws"}
-  - {name: "103.116.7.154_443", type: vless, server: 103.116.7.154, port: 443, uuid: "2c79b667-b103-4d22-86d0-5ef23f303c06", tls: true, network: "ws"}
   - {name: "103.116.7.158_443", type: vless, server: 103.116.7.158, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.16, port: 443, uuid: "cf39fab0-bb85-42cb-9945-2ad69d78e575", tls: true, network: "ws"}
   - {name: "美国_0720205223", type: vless, server: 103.116.7.17, port: 443, uuid: "0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e", tls: true, network: "ws"}
@@ -216,18 +177,15 @@ proxies:
   - {name: "___[VL]_Германия__811___РосТун", type: vless, server: 103.116.7.21, port: 2087, uuid: "9d6104a5-fc6d-4fe6-95b7-80d8f699e09d", tls: true, network: "xhttp"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.220, port: 2096, uuid: "62357561-a129-4b9e-9614-ce2578020866", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.230, port: 443, uuid: "c797aa8a-c03d-48da-9ad4-c9774b14bed2", tls: true, network: "ws"}
-  - {name: "NUKCROW", type: vless, server: 103.116.7.235, port: 443, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
+  - {name: "NUKCROW", type: vless, server: 103.116.7.235, port: 443, uuid: "c797aa8a-c03d-48da-9ad4-c9774b14bed2", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.238, port: 2096, uuid: "6202b230-417c-4d8e-b624-0f71afa9c75d", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___4ffa87", type: vless, server: 103.116.7.246, port: 443, uuid: "50414e45-4c5f-5a45-5553-aaa41f0d0cbc", tls: true, network: "ws"}
-  - {name: "_", type: vless, server: 103.116.7.248, port: 443, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
-  - {name: "NUKCROW", type: vless, server: 103.116.7.29, port: 8880, uuid: "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf", tls: true, network: "ws"}
+  - {name: "[41335][US][0][VLESS][None][ex", type: vless, server: 103.116.7.248, port: 443, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
   - {name: "美国_072020103", type: vless, server: 103.116.7.41, port: 443, uuid: "42add63b-deda-4e71-aa48-ddd288181858", tls: true, network: "ws"}
   - {name: "美国_072020914", type: vless, server: 103.116.7.42, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Russia__Cheremushki_[BL]", type: vless, server: 103.116.7.61, port: 2096, uuid: "12345678-1234-1234-1234-123456789123", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.116.7.67, port: 2083, uuid: "c797aa8a-c03d-48da-9ad4-c9774b14bed2", tls: true, network: "ws"}
-  - {name: "A_-____US_01_TG__@nodpai", type: vless, server: 103.117.102.220, port: 8082, uuid: "ce069292-c8bf-40dd-a6b1-87818a1e64e9", tls: true, network: "ws"}
   - {name: "__@v2ray_configs_pool_____Phil", type: vless, server: 103.118.208.134, port: 443, uuid: "505a1a16-2c67-4cbb-a5db-acde6627660b", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "A_-____SG_09_TG__@nodpai", type: vless, server: 103.118.243.222, port: 40301, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.118.254.37, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "___Hong_Kong___CoreNET___103.1", type: vless, server: 103.118.40.32, port: 8443, uuid: "f4e91fac-25eb-4d26-a14c-c82c3778a0e4", tls: true, network: "ws"}
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.118.41.121, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
@@ -240,12 +198,9 @@ proxies:
   - {name: "103.119.18.192_443", type: vless, server: 103.119.18.192, port: 443, uuid: "a77cedab-f429-40bb-b6d4-fd9dd681e675", flow: "xtls-rprx-vision", tls: true, servername: "amd.com", network: "tcp"}
   - {name: "VLESS___@PulseConfigs___3d47cd", type: vless, server: 103.119.18.30, port: 443, uuid: "8666ab45-8e3d-4988-841b-2561d91e32d5", tls: true, network: "ws"}
   - {name: "HK", type: vless, server: 103.119.19.208, port: 443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "eu-central.cendora.ru", network: "tcp"}
-  - {name: "14_VN_speednode_0145", type: vless, server: 103.12.76.236, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", tls: true, network: "tcp"}
   - {name: "___Vietnam___Thien_Quang_Digit", type: vless, server: 103.12.77.191, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", flow: "xtls-rprx-vision", tls: true, servername: "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me", network: "tcp"}
   - {name: "___Vietnam___Thien_Quang_Digit", type: vless, server: 103.12.77.48, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", tls: true, network: "tcp"}
   - {name: "103.12.77.78_443", type: vless, server: 103.12.77.78, port: 443, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", flow: "xtls-rprx-vision", tls: true, servername: "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me", network: "tcp"}
-  - {name: "14_VN_speednode_0034", type: vless, server: 103.12.77.90, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", tls: true, network: "tcp"}
-  - {name: "__SG_3_1.2MB_s", type: vless, server: 103.122.244.22, port: 10001, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "-_HK_(@DeamNet_Proxy)_(2)", type: vless, server: 103.123.162.50, port: 443, uuid: "17011a43-97e2-44b0-b0da-a2ea151ad75c", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "raw"}
   - {name: "___Tokyo__JP___Kamatera___103.", type: vless, server: 103.125.219.14, port: 13443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "auto.cendora.ru", network: "tcp"}
   - {name: "___Tokyo__JP___Kamatera___103.", type: vless, server: 103.125.219.14, port: 443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
@@ -254,13 +209,13 @@ proxies:
   - {name: "___Hong_Kong___TRS___103.127.2", type: vless, server: 103.127.248.51, port: 443, uuid: "1a79d43f-b41c-496b-a241-dcbeefa81f0e", tls: true, network: "ws"}
   - {name: "___[БС-VL]_Малайзия__9305___Ро", type: vless, server: 103.130.145.44, port: 443, uuid: "0d93b787-b66b-4696-a036-a0f549764f69", flow: "xtls-rprx-vision", tls: true, servername: "tr.fasti.win", network: "tcp"}
   - {name: "___[БС-VL]_Тайвань__9304___Рос", type: vless, server: 103.130.145.48, port: 443, uuid: "0d93b787-b66b-4696-a036-a0f549764f69", flow: "xtls-rprx-vision", tls: true, servername: "tr.fasti.win", network: "tcp"}
+  - {name: "美国_0720203390", type: vless, server: 103.133.1.140, port: 80, uuid: "f9255507-1b65-433f-bfd8-193b35e068e2", tls: true, network: "ws"}
   - {name: "VLESS___@PulseConfigs___b43cd8", type: vless, server: 103.133.1.140, port: 8443, uuid: "d582a59e-3fee-458e-9e00-6b11d35c0fb0", tls: true, network: "ws"}
   - {name: "_", type: vless, server: 103.133.1.171, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
-  - {name: "_", type: vless, server: 103.133.1.227, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
+  - {name: "[10212][US][0][VLESS][None][ex", type: vless, server: 103.133.1.227, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
   - {name: "NUKCROW", type: vless, server: 103.133.1.29, port: 8880, uuid: "fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf", tls: true, network: "ws"}
   - {name: "103.133.1.33_443", type: vless, server: 103.133.1.33, port: 443, uuid: "8b562c77-fc99-4d25-9100-d8c0849cc9ff", tls: true, network: "ws"}
   - {name: "NUKCROW", type: vless, server: 103.133.1.40, port: 443, uuid: "42add63b-deda-4e71-aa48-ddd288181858", tls: true, network: "ws"}
-  - {name: "B_-____JP_24_TG__@nodpai", type: vless, server: 103.134.35.107, port: 22335, uuid: "a3a8c354-a85c-477b-90f3-dbe08cadf31c", tls: true, network: "tcp"}
   - {name: "103.136.146.73_443", type: vless, server: 103.136.146.73, port: 443, uuid: "d342d11e-d424-4583-b36e-524ab1f0afa4", tls: true, network: "ws"}
   - {name: "___Singapore___Baxet_Group___1", type: vless, server: 103.136.68.86, port: 443, uuid: "6202b230-417c-4d8e-b624-0f71afa9c75d", tls: true, network: "ws"}
   - {name: "103.137.215.122_443", type: vless, server: 103.137.215.122, port: 443, uuid: "ea1c1e20-7263-4b08-a01b-690b29af66b3", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
@@ -272,7 +227,6 @@ proxies:
   - {name: "___Taipei__TW___Pittqiao_Netwo", type: vless, server: 103.137.247.92, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", flow: "xtls-rprx-vision", tls: true, servername: "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me", network: "tcp"}
   - {name: "荷兰_072020805", type: vless, server: 103.137.248.227, port: 443, uuid: "4d470e90-f0df-42ca-b49d-42a900d3e03e", tls: true, network: "ws"}
   - {name: "103.137.62.229_443", type: vless, server: 103.137.62.229, port: 443, uuid: "2add6241-8fe8-3922-8347-da25e8ced601", flow: "xtls-rprx-vision", tls: true, servername: "tesla.com", network: "tcp"}
-  - {name: "B_-____SG_22_TG__@nodpai", type: vless, server: 103.137.63.227, port: 8443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Taiwan___Pittqiao_Network__", type: vless, server: 103.137.63.2, port: 443, uuid: "4c5f4cf8-b30a-4658-84bb-f0145dd123d4", tls: true, network: "ws"}
   - {name: "___Taiwan___Pittqiao_Network__", type: vless, server: 103.137.63.3, port: 443, uuid: "55520747-311e-4015-83ce-be46e2060ce3", tls: true, network: "ws"}
   - {name: "4Mohsen-7f10495faa", type: vless, server: 103.139.51.21, port: 443, uuid: "71b91642-93ed-4923-8cab-877e19bfc2d6", flow: "xtls-rprx-vision", tls: true, servername: "auth.figmafound.org", network: "tcp"}
@@ -284,32 +238,78 @@ proxies:
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.143.81.124, port: 3139, uuid: "87ecd928-9831-416a-bf4d-25e441ffb4cf", flow: "xtls-rprx-vision", tls: true, servername: "aws.amazon.com", network: "tcp"}
   - {name: "___HK_中国香港-____SG_新加坡", type: vless, server: 103.143.81.178, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "HK香港(mibei77.com_米贝节点分享)", type: vless, server: 103.143.81.60, port: 54030, uuid: "322c0364-b447-45c2-a27c-250376170dc0", flow: "xtls-rprx-vision", tls: true, servername: "www.ebay.com", network: "tcp"}
-  - {name: "B_-____JP_17_TG__@nodpai", type: vless, server: 103.146.90.5, port: 56305, uuid: "00000000-0000-4000-8000-000000000000", tls: true, network: "ws"}
   - {name: "___Hong_Kong___Pittqiao_Networ", type: vless, server: 103.148.72.147, port: 1443, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
   - {name: "103.148.73.119_443", type: vless, server: 103.148.73.119, port: 443, uuid: "e5ce79f9-fdac-4e80-8286-a15b96fded72", tls: true, network: "ws"}
   - {name: "___Hong_Kong___Pittqiao_Networ", type: vless, server: 103.148.73.144, port: 8443, uuid: "f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4", tls: true, network: "ws"}
   - {name: "___Hong_Kong___Pittqiao_Networ", type: vless, server: 103.148.73.167, port: 443, uuid: "f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4", tls: true, network: "ws"}
-  - {name: "A_-____SG_12_TG__@nodpai", type: vless, server: 103.149.145.120, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Hong_Kong___Yun_Zhong_Techn", type: vless, server: 103.149.183.198, port: 13779, uuid: "928e6cce-8ced-4243-9a48-a6642edd09b0", flow: "xtls-rprx-vision", tls: true, servername: "tesla.com", network: "tcp"}
-  - {name: "VN_speednode_0038", type: vless, server: 103.15.91.104, port: 10102, uuid: "1d50df52-368d-4d14-8bf7-9b89e82985e2", tls: true, network: "tcp"}
   - {name: "___Singapore___Hosting_Solutio", type: vless, server: 103.152.136.29, port: 8443, uuid: "6705ddbd-04cf-40f6-99b9-36846b08c2a9", tls: true, network: "ws"}
-  - {name: "美国_CloudFlare节点", type: vmess, server: 00.likelike.us.kg, port: 443, uuid: "680e91d7-01ff-4082-b71a-472d5236adee", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_华盛顿州西雅图市亚马逊(Amazon)公司数据中心", type: vmess, server: 0000000000000000000000000041.bgroup-node-for-bigairport.sbs, port: 12351, uuid: "b71f9e84-86c9-49c4-b5f4-b33b35ee7410", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_俄勒冈州波特兰Amazon数据中心", type: vmess, server: 0000000000000000000000000044.bgroup-node-for-bigairport.sbs, port: 52352, uuid: "b71f9e84-86c9-49c4-b5f4-b33b35ee7410", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_东京Amazon数据中心", type: vmess, server: 0000000000000000000000000045.bgroup-node-for-bigairport.sbs, port: 12353, uuid: "b71f9e84-86c9-49c4-b5f4-b33b35ee7410", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_V2CROSS.COM", type: vmess, server: 0000000000000000000000000046.bgroup-node-for-bigairport.sbs, port: 52353, uuid: "b71f9e84-86c9-49c4-b5f4-b33b35ee7410", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "香港_Amazon数据中心", type: vmess, server: 0000000000000000000000000063.cgroup-node-for-bigairport.sbs, port: 22352, uuid: "247faa95-f929-4f49-95a3-0e0582e50cf5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_惠普HP", type: vmess, server: 0000000000000000000000000065.cgroup-node-for-bigairport.sbs, port: 22353, uuid: "5ac8224f-6126-4ffb-9fad-97e3207f8c33", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_V2CROSS.COM", type: vmess, server: 0000000000000000000000000071.cgroup-node-for-bigairport.sbs, port: 22356, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "加拿大_V2CROSS.COM", type: vmess, server: 0000000000000000000000000073.cgroup-node-for-bigairport.sbs, port: 22357, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_俄勒冈州波特兰Amazon数据中心", type: vmess, server: 0000000000000000000000000075.cgroup-node-for-bigairport.sbs, port: 22358, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_V2CROSS.COM", type: vmess, server: 0000000000000000000000000076.cgroup-node-for-bigairport.sbs, port: 42358, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_俄勒冈州波特兰Amazon数据中心", type: vmess, server: 0000000000000000000000000078.cgroup-node-for-bigairport.sbs, port: 42359, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "美国_俄勒冈州波特兰Amazon数据中心", type: vmess, server: 0000000000000000000000000080.cgroup-node-for-bigairport.sbs, port: 42360, uuid: "3519dfc0-fa27-41cc-8c19-981818f9f6d5", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_东京都Amazon数据中心", type: vmess, server: 00000000000000000000000001.node-for-smallairport.win, port: 13389, uuid: "ab0ab89d-de80-44bd-b938-cafda772976d", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_东京Amazon数据中心", type: vmess, server: 00000000000000000000000002.node-for-smallairport.win, port: 11521, uuid: "ab0ab89d-de80-44bd-b938-cafda772976d", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_东京Amazon数据中心", type: vmess, server: 00000000000000000000000007.node-for-smallairport.win, port: 13389, uuid: "ab0ab89d-de80-44bd-b938-cafda772976d", alterId: 0, cipher: auto, tls: true, network: "ws"}
-  - {name: "日本_东京都Amazon数据中心", type: vmess, server: 00000000000000000000000008.node-for-smallairport.win, port: 11521, uuid: "ab0ab89d-de80-44bd-b938-cafda772976d", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Russia__Domodedovo_[BL]", type: vless, server: 103.160.204.12, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
+  - {name: "未知_0720202608", type: vless, server: 103.160.204.145, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
+  - {name: "_", type: vless, server: 103.160.204.160, port: 443, uuid: "401374e6-df77-41fb-f638-dad8184f175b", tls: true, network: "grpc"}
+  - {name: "[35992][HK][0][VLESS][None][ex", type: vless, server: 103.160.204.1, port: 443, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
+  - {name: "未知_0720201034", type: vless, server: 103.160.204.239, port: 2053, uuid: "a16a4119-c020-4c51-afa0-f81c0e05dafe", tls: true, network: "ws"}
+  - {name: "未知_0720205034", type: vless, server: 103.160.204.239, port: 2096, uuid: "23ff3733-1de9-48b2-91dc-470d8155ab7d", tls: true, network: "ws"}
+  - {name: "未知_0720205261", type: vless, server: 103.160.204.239, port: 443, uuid: "1444b496-5c4d-4ac2-aa5c-8422d86113c7", tls: true, network: "ws"}
+  - {name: "103.160.204.239_8443", type: vless, server: 103.160.204.239, port: 8443, uuid: "c115c8c5-fa02-479b-8193-26f334e8e88b", tls: true, network: "xhttp"}
+  - {name: "___Russia__Domodedovo_[BL]", type: vless, server: 103.160.204.249, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
+  - {name: "未知_0720201669", type: vless, server: 103.160.204.34, port: 2053, uuid: "a16a4119-c020-4c51-afa0-f81c0e05dafe", tls: true, network: "ws"}
+  - {name: "_", type: vless, server: 103.160.204.36, port: 2087, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
+  - {name: "103.160.204.39_443", type: vless, server: 103.160.204.39, port: 443, uuid: "4d91916f-a7fd-419b-8b90-640bb8d4b3f2", tls: true, network: "ws"}
+  - {name: "_", type: vless, server: 103.160.204.40, port: 8443, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
+  - {name: "未知_0720204639", type: vless, server: 103.160.204.41, port: 443, uuid: "42add63b-deda-4e71-aa48-ddd288181858", tls: true, network: "ws"}
+  - {name: "未知_0720205084", type: vless, server: 103.160.204.42, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
+  - {name: "103.160.204.4_443", type: vless, server: 103.160.204.4, port: 443, uuid: "62357561-a129-4b9e-9614-ce2578020866", tls: true, network: "ws"}
+  - {name: "未知_0720205070", type: vless, server: 103.160.204.56, port: 443, uuid: "14b59caf-a196-4ec2-8c70-c7b388062f5b", tls: true, network: "ws"}
+  - {name: "[1513][AU][0][VLESS][None][ext", type: vless, server: 103.160.204.59, port: 443, uuid: "06e4425e-a8cb-4b63-929f-2105604ab0a9", tls: true, network: "ws"}
+  - {name: "___Russia__Domodedovo_[BL]", type: vless, server: 103.160.204.5, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
+  - {name: "未知_0720203340", type: vless, server: 103.160.204.6, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
+  - {name: "103.160.204.88_2096", type: vless, server: 103.160.204.88, port: 2096, uuid: "-----v2ray_fark-----", tls: true, network: "grpc"}
+  - {name: "103.160.204.92_2053", type: vless, server: 103.160.204.92, port: 2053, uuid: "-----v2ray_fark-----", tls: true, network: "grpc"}
+  - {name: "103.160.204.92_2087", type: vless, server: 103.160.204.92, port: 2087, uuid: "-----v2ray_fark-----", tls: true, network: "grpc"}
+  - {name: "103.160.204.92_2096", type: vless, server: 103.160.204.92, port: 2096, uuid: "-----v2ray_fark-----", tls: true, network: "grpc"}
+  - {name: "___Singapore__Singapore_(Downt", type: vless, server: 103.160.204.9, port: 443, uuid: "e258977b-e413-4718-a3af-02d75492c349", tls: true, network: "ws"}
+  - {name: "___Afghanistan___Fars_Route_In", type: vless, server: 103.161.237.54, port: 443, uuid: "e911c552-3a98-41e0-b5fb-0dd3879887b7", tls: true, network: "ws"}
+  - {name: "___Hong_Kong___eServer___103.1", type: vless, server: 103.166.127.195, port: 448, uuid: "8224aa92-4a38-4756-a7d9-a9e7cde12a31", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
+  - {name: "___[VL]_Норвегия__4767___РосТу", type: vless, server: 103.167.134.29, port: 39738, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
+  - {name: "___Singapore__SG___HostHatch__", type: vless, server: 103.167.151.24, port: 17191, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
+  - {name: "_", type: vless, server: 103.167.234.110, port: 2050, uuid: "acbab574-fbb3-48fe-948f-f2c173d5dfeb", flow: "xtls-rprx-vision", tls: true, servername: "refersion.com", network: "tcp"}
+  - {name: "___PL_波兰", type: vless, server: 103.167.234.26, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
+  - {name: "NUKCROW", type: vless, server: 103.169.142.0, port: 443, uuid: "fa0825cd-89b2-4e57-a669-68d4f4a3bd2c", tls: true, network: "ws"}
+  - {name: "VLESS___@PulseConfigs___3ba381", type: vless, server: 103.169.142.104, port: 443, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
+  - {name: "VLESS___@PulseConfigs___2ac8a8", type: vless, server: 103.169.142.121, port: 443, uuid: "2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5", tls: true, network: "ws"}
+  - {name: "VLESS___@PulseConfigs___a192f2", type: vless, server: 103.169.142.136, port: 443, uuid: "48198295-b7ba-4b5c-8d85-085d55a6c869", tls: true, network: "ws"}
+  - {name: "澳大利亚_072020012", type: vless, server: 103.169.142.140, port: 80, uuid: "f9255507-1b65-433f-bfd8-193b35e068e2", tls: true, network: "ws"}
+  - {name: "VLESS___@PulseConfigs___00fea1", type: vless, server: 103.169.142.145, port: 443, uuid: "48198295-b7ba-4b5c-8d85-085d55a6c869", tls: true, network: "ws"}
+  - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:416d:dba2, port: 443, uuid: "be4aa610-63ba-4a1a-9321-cdccbb398276", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:4f7f:3644, port: 443, uuid: "---WLFVPN---", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_مهسا_امینی", type: vmess, server: 0000:0000:0000:0000:0000:ffff:b97e:c833, port: 443, uuid: "vpnwlf@vpnwlf", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__US-49.51.180.214-1623", type: vmess, server: 0121136175176168.xhtk.cc, port: 443, uuid: "286ff9bd-26b8-39c2-d85e-ba20dc1a7e75", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Tokyo__JP___Amazon.com___01", type: vmess, server: 01eb6-g01.jp03-7d22-vm0.entry.fr0307a.art, port: 21581, uuid: "7a6cb59b-fbcd-3f50-b5f2-a2534326c4c8", alterId: 0, cipher: auto, tls: true, network: "tcp"}
+  - {name: "4Jadi-bf2f3f95a4", type: vmess, server: 0319hzm01.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "4Kian-7629ac9049", type: vmess, server: 0320hk567.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "4FreeIran-94348faaf4", type: vmess, server: 0320hk857.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "4Kian-02c9d50207", type: vmess, server: 0320jp.fans8.xyz, port: 443, uuid: "5c70da5d-e641-3bf8-b7dc-5babd843ff3c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Seoul__KR___Microsoft_Corpo", type: vmess, server: 1-kr.importal.top, port: 443, uuid: "7caa36ef-ff70-3649-a4da-aaaa7b38777f", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "_RELAY-1.1.1.1-0743", type: vmess, server: 1.1.1.1, port: 443, uuid: "36f71b02-04bf-4ab6-8f17-850a002b448d", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "[341][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.2, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "[342][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.3, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "[338][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.4, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "[339][AU][0][VMESS][None][None", type: vmess, server: 1.1.1.5, port: 443, uuid: "a91c50c3-c838-428d-a61d-ed372255bb71", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__TW-1.161.186.146-1565", type: vmess, server: 1.161.186.146, port: 64443, uuid: "cb7001c7-e495-41ac-b942-f25f60523414", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___US_美国", type: vmess, server: 1.1808.cf, port: 443, uuid: "76a884db-04e1-40fb-ade5-c031a7f3461e", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "__KR-1.238.102.214-6715", type: vmess, server: 1.238.102.214, port: 30001, uuid: "ffffffff-ffff-ffff-ffff-ffffffffffff", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "@WeePeeN_-_5AM", type: vmess, server: 1000.100-1000.ir, port: 2052, uuid: "776e05e8-a4bd-4782-83b4-6bfc2465211d", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "@WeePeeN_-_Germany_1___", type: vmess, server: 1000.100-1000.ir, port: 443, uuid: "7e7d57ed-0c74-4a58-eb4c-79fb08391a75", alterId: 0, cipher: auto, tls: true, network: "tcp"}
+  - {name: "@WeePeeN_-_Germany_2___", type: vmess, server: 1000.100-1000.ir, port: 664, uuid: "7143d8f4-b8b8-4751-c9f3-8c832bb01e25", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "@WeePeeN_-_WAH", type: vmess, server: 1000.100-1000.ir, port: 8080, uuid: "df0608da-0c4d-4fce-f445-0c11e7a0de2b", alterId: 0, cipher: auto, tls: true, network: "tcp"}
+  - {name: "@WeePeeN_-_روح", type: vmess, server: 1000.100-1000.ir, port: 993, uuid: "ece7037b-5190-4fb8-8f5a-db4e8a10cc0c", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Hong_Kong__HK___Tencent_Bui", type: vmess, server: 101.32.191.253, port: 443, uuid: "3f4d6dd8-0ea2-4ce4-8e30-6a581e13cc4d", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "4Kian-ce700928fc", type: vmess, server: 102.177.189.101, port: 443, uuid: "8f74ec8a-971c-11ed-a8fc-0242ac120002", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Hong_Kong___CoreNET___103.1", type: vmess, server: 103.118.40.200, port: 10807, uuid: "c36fc804-7fc7-4fea-b1d7-cc1e334b1c56", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Kwai_Chung__HK___Eons_Data_", type: vmess, server: 103.138.74.36, port: 443, uuid: "57e0cb4d-eae5-48ec-8091-149dc2b309e0", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Negishi__JP___Internet_Init", type: vmess, server: 103.140.136.91, port: 7654, uuid: "0ab40fda-9186-4eb2-96bc-266fd4cb52d4", alterId: 0, cipher: auto, tls: true, network: "ws"}
+  - {name: "___Hong_Kong___YISU_CLOUD___10", type: vmess, server: 103.143.238.196, port: 21879, uuid: "1e1a6b3b-14b2-4ae4-9aa9-880ba5dff6fa", alterId: 0, cipher: auto, tls: true, network: "ws"}
 
 proxy-groups:
   - name: "🚀 自动选择"
@@ -337,7 +337,7 @@ proxy-groups:
       - "__FR_1358_398KB_s_01"
       - "未知_0720201516"
       - "未知_0720201606"
-      - "15_UA_speednode_0118"
+      - "未知_070609044"
 
 
 rules:
