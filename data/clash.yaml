@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-10-24 15:03:30
+# 更新时间: 2026-10-24 19:58:01
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -10,7 +10,7 @@ log-level: warning
 allow-lan: false
 
 proxies:
-  - {name: "__Unknown_-_Unknown___0--join.", type: vless, server: 0--join.outline-vpn.cloud, port: 443, uuid: "b0138d55-a493-4dc3-9932-c6f0391707c1", tls: true, network: "ws"}
+  - {name: "___Japan_-_Unknown___0--join.o", type: vless, server: 0--join.outline-vpn.cloud, port: 443, uuid: "b0138d55-a493-4dc3-9932-c6f0391707c1", tls: true, network: "ws"}
   - {name: "___Japan_-_Unknown___00--join.", type: vless, server: 00--join.outline-vpn.cloud, port: 2053, uuid: "c4d98ed1-69a5-49ad-b785-25fd2e081326", tls: true, network: "grpc"}
   - {name: "__Unknown_-_Unknown___00-join.", type: vless, server: 00-join.outline-vpn.cloud, port: 443, uuid: "b0138d55-a493-4dc3-9932-c6f0391707c1", tls: true, network: "ws"}
   - {name: "By_EbraSha", type: vless, server: 00-production-3273.up.railway.app, port: 443, uuid: "c92ccfd5-355d-7237-9903-5f92c81ddec8", tls: true, network: "ws"}
@@ -18,7 +18,6 @@ proxies:
   - {name: "_", type: vless, server: [0000:0000:0000:0000:0000:ffff:5b63:9012], port: 20200, uuid: "94a67a9d-b27d-42f9-bee9-05de7203b998", flow: "xtls-rprx-vision", tls: true, servername: "www.speedtest.net", network: "grpc"}
   - {name: "_", type: vless, server: [0000:0000:0000:0000:0000:ffff:5b63:9012], port: 20600, uuid: "09324ee6-1235-4793-bf9b-0da17a466a69", flow: "xtls-rprx-vision", tls: true, servername: "www.speedtest.net", network: "grpc"}
   - {name: "VLESS-0000_0000_0000_0000_0000", type: vless, server: [0000:0000:0000:0000:0000:ffff:b9a2:e403], port: 2083, uuid: "f58356e6-33ef-4da4-89e6-c1c0b786abbb", tls: true, network: "grpc"}
-  - {name: "VLESS-0000_0000_0000_0000_0000", type: vless, server: [0000:0000:0000:0000:0000:ffff:c109:31df], port: 2053, uuid: "754b99f3-ecfd-4802-83f9-8c1be8bcecae", tls: true, network: "ws"}
   - {name: "By_EbraSha", type: vless, server: [0000:0000:0000:0000:0000:ffff:c1a8:902e], port: 443, uuid: "cdb38f5b-12c3-414b-eacd-a635dc633701", flow: "xtls-rprx-vision", tls: true, servername: "mega.io", network: "grpc"}
   - {name: "__FR_1358_398KB_s_01", type: vless, server: 002.inc-electrocell-001-002.workers.dev, port: 443, uuid: "36a857e4-f3d4-43aa-8b90-d7da849da989", tls: true, network: "ws"}
   - {name: "未知_0720201516", type: vless, server: 002.w4wl4v1cptky.workers.dev, port: 443, uuid: "72fc1188-430f-4a3c-a64e-af9023819899", tls: true, network: "ws"}
@@ -33,7 +32,7 @@ proxies:
   - {name: "__Cloudflare___017.electrocell", type: vless, server: 017.electrocellco-cf-017.workers.dev, port: 443, uuid: "b74bbaca-8bbe-41e1-9af9-18d467836282", tls: true, network: "ws"}
   - {name: "未知_072020341", type: vless, server: 019.electrocellco-cf-019.workers.dev, port: 443, uuid: "94671f42-fdd3-4503-a3e6-bda4a2527560", tls: true, network: "ws"}
   - {name: "___Finland_-_Helsinki___01df40", type: vless, server: 01df4097a832d04e.mbcloudynias.ir, port: 50567, uuid: "d7955f3f-dfa3-45a0-a3ef-9693df439a0f", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "___Japan_-_Unknown___01join.ou", type: vless, server: 01join.outline-vpn.cloud, port: 443, uuid: "d52fd120-1397-486d-b9e1-7e89f37201b1", tls: true, network: "ws"}
+  - {name: "__Unknown_-_Unknown___01join.o", type: vless, server: 01join.outline-vpn.cloud, port: 443, uuid: "d52fd120-1397-486d-b9e1-7e89f37201b1", tls: true, network: "ws"}
   - {name: "__FR_1374_480KB_s_M003-260806_", type: vless, server: 022xw1dmczg0c6165pcla6.tomborn69.workers.dev, port: 443, uuid: "5d4f5139-6965-42ed-8dba-fe3ef9fed7c1", tls: true, network: "ws"}
   - {name: "__Cloudflare___025.electrocell", type: vless, server: 025.electrocellco-cf-025.workers.dev, port: 2053, uuid: "0b93fd13-de5c-4ca5-8530-435bfa2a0955", tls: true, network: "ws"}
   - {name: "vless-35978", type: vless, server: 026.electrocellco-cf-026.workers.dev, port: 443, uuid: "064059ce-23b9-45d3-953d-57d4c5092874", tls: true, network: "ws"}
@@ -64,13 +63,13 @@ proxies:
   - {name: "0709-mrs.kovira2.ir_2083", type: vless, server: 0709-mrs.kovira2.ir, port: 2083, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "XX", type: vless, server: 0710-bbb.kovira2.ir, port: 2053, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "grpc"}
   - {name: "XX", type: vless, server: 0710-bbb.kovira2.ir, port: 2083, uuid: "6d6b93ee-10f2-47fa-a0b1-414d14f42a92", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
-  - {name: "__Unknown_-_Unknown___074.outl", type: vless, server: 074.outline-vpn.cloud, port: 443, uuid: "874b15f4-7f43-436e-85d8-5142c3b748c0", flow: "xtls-rprx-vision", tls: true, servername: "translate.google.com", network: "tcp"}
+  - {name: "___Japan_-_Unknown___074.outli", type: vless, server: 074.outline-vpn.cloud, port: 443, uuid: "874b15f4-7f43-436e-85d8-5142c3b748c0", flow: "xtls-rprx-vision", tls: true, servername: "translate.google.com", network: "tcp"}
   - {name: "filembad-163", type: vless, server: 07a43ef8ce834d5a.tunvi.w-ert.org, port: 448, uuid: "58fce630-f90b-42aa-84b4-ba4117864609", flow: "xtls-rprx-vision", tls: true, servername: "www.aparat.com", network: "tcp"}
   - {name: "___Germany_-_Falkenstein___080", type: vless, server: 080f2d83dbd8fefe.jobwebs.ir, port: 50567, uuid: "70cde8b3-4e69-4a82-9188-0262924ae8c6", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "___Seat", type: vless, server: 08183979-836e-ac85-15db-8a5a48eae531-production-abf6.up.railway.app, port: 443, uuid: "88888888-8888-8888-8888-888888888888", tls: true, network: "ws"}
   - {name: "4Kian-4c6fc804df", type: vless, server: 08e8eb18f73305f9.drwsh.org, port: 56460, uuid: "8687e743-c354-4d58-ac62-a6c2795e1f7e", flow: "xtls-rprx-vision", tls: true, servername: "blog.jetbrains.com", network: "xhttp"}
   - {name: "[13845][US][0][VLESS][None][ex", type: vless, server: 08zf00ehufls.4dzddne7u9zs.workers.dev, port: 443, uuid: "50414e45-4c5f-5a45-5553-d332589b5b2d", tls: true, network: "ws"}
-  - {name: "___Japan_-_Unknown___090--join", type: vless, server: 090--join.outline-vpn.cloud, port: 443, uuid: "b9ad895b-12ac-40fc-a5ac-a5b2a1285001", tls: true, network: "ws"}
+  - {name: "__Unknown_-_Unknown___090--joi", type: vless, server: 090--join.outline-vpn.cloud, port: 443, uuid: "b9ad895b-12ac-40fc-a5ac-a5b2a1285001", tls: true, network: "ws"}
   - {name: "___United_Kingdom_-_Canary_Wha", type: vless, server: 0930.globalingredients.pe, port: 2053, uuid: "288b5b98-3d85-4629-80a5-4b8251fafb62", tls: true, network: "grpc"}
   - {name: "4Jadi-01b20cc7f1", type: vless, server: 09303582303.ddns.net, port: 443, uuid: "7d3b945d-0f23-4719-9fae-50033251e2fd", tls: true, network: "ws"}
   - {name: "@DeltaKroneckerGithub", type: vless, server: 094-pl.tgtesla.click, port: 443, uuid: "2b64baf4-6499-407e-abe8-67c1eb0475f9", flow: "xtls-rprx-vision", tls: true, servername: "cooklist.ru", network: "tcp"}
@@ -92,7 +91,7 @@ proxies:
   - {name: "___越南___VNM", type: vless, server: 0f019b6d.bilibiliapp.cn, port: 443, uuid: "d5556fce-cc34-4df9-b1ff-755b02a3fc9a", tls: true, network: "xhttp"}
   - {name: "___Russia_-_Moscow___0f5857g.m", type: vless, server: 0f5857g.msk1.h1clayd.click, port: 443, uuid: "3acb386b-fdd7-4bc9-911f-159fdcd834ce", flow: "xtls-rprx-vision", tls: true, servername: "0f5857g.msk1.h1clayd.click", network: "grpc"}
   - {name: "___AetrisVPN", type: vless, server: 0ff0d7g.de13.h1clayd.click, port: 443, uuid: "fafc7c16-f890-45ee-a856-02df225172dd", flow: "xtls-rprx-vision", tls: true, servername: "0ff0d7g.de13.h1clayd.click", network: "grpc"}
-  - {name: "___Japan_-_Unknown___0join.out", type: vless, server: 0join.outline-vpn.cloud, port: 443, uuid: "8818f2ea-e919-4af7-a90e-d1c619423c9b", flow: "xtls-rprx-vision", tls: true, servername: "www.g2.com", network: "tcp"}
+  - {name: "__Unknown_-_Unknown___0join.ou", type: vless, server: 0join.outline-vpn.cloud, port: 443, uuid: "8818f2ea-e919-4af7-a90e-d1c619423c9b", flow: "xtls-rprx-vision", tls: true, servername: "www.g2.com", network: "tcp"}
   - {name: "[13838][US][0][VLESS][None][ex", type: vless, server: 0lzw35eluyys.56zv22emuags.workers.dev, port: 443, uuid: "50414e45-4c5f-5a45-5553-9df80d553692", tls: true, network: "ws"}
   - {name: "__@v2rayng_fast", type: vless, server: 0n0w5jre3ro-p4vmk-dilf-3hcr9u9fc.talumy147.workers.dev, port: 443, uuid: "cbb2d3b3-9164-46cc-84f9-82722fbf1353", tls: true, network: "ws"}
   - {name: "__Cloudflare___0nlysms.ir", type: vless, server: 0nlysms.ir, port: 443, uuid: "cf39fab0-bb85-42cb-9945-2ad69d78e575", tls: true, network: "ws"}
@@ -134,7 +133,7 @@ proxies:
   - {name: "香港_072704153", type: vless, server: 1.sdwan.realm-sync.com, port: 58712, uuid: "48959fe8-4a5e-4996-bc87-8d66398e6860", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
   - {name: "香港_072704160", type: vless, server: 1.sdwan.realm-sync.com, port: 60776, uuid: "8faf6e38-0531-4d63-91f0-2aba5b9ff864", flow: "xtls-rprx-vision", tls: true, servername: "swcdn.apple.com", network: "tcp"}
   - {name: "1.seysisi.ir_443", type: vless, server: 1.seysisi.ir, port: 443, uuid: "cbb4d9c9-6a8f-4acc-9aa1-2974015e0279", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
-  - {name: "__", type: vless, server: 1.tls.fastly.veraspeed.ir, port: 443, uuid: "cbcf2255-6d66-4039-b7d6-c10d6ffc99e7", tls: true, network: "ws"}
+  - {name: "@meliproxyy", type: vless, server: 1.tls.fastly.veraspeed.ir, port: 443, uuid: "cbcf2255-6d66-4039-b7d6-c10d6ffc99e7", tls: true, network: "ws"}
   - {name: "1.tstbarber.ir_443", type: vless, server: 1.tstbarber.ir, port: 443, uuid: "cbb4d9c9-6a8f-4acc-9aa1-2974015e0279", flow: "xtls-rprx-vision", tls: true, servername: "play.google.com", network: "tcp"}
   - {name: "[17908][UnResolvedDomains][0][", type: vless, server: 1.windscribe.cam, port: 2087, uuid: "6e643b53-f30a-443d-a069-c5826f365403", tls: true, network: "ws"}
   - {name: "10.10.34.36_2083", type: vless, server: 10.10.34.36, port: 2083, uuid: "ffcceeec-28e2-4117-aa24-7da55f88711f", tls: true, network: "ws"}
@@ -150,7 +149,7 @@ proxies:
   - {name: "___United_States_-_Ashburn___1", type: vless, server: 100.28.124.111, port: 2083, uuid: "60e56011-2351-4dc7-ae2b-a26022d7490b", flow: "xtls-rprx-vision", tls: true, servername: "www.speedtest.net", network: "xhttp"}
   - {name: "___United_States_-_Ashburn___1", type: vless, server: 100.28.71.137, port: 22222, uuid: "05519058-d2ac-4f28-9e4a-2b2a1386749e", tls: true, network: "ws"}
   - {name: "VLESS-100.42.221.195", type: vless, server: 100.42.221.195, port: 443, uuid: "e182765b-d8c7-4054-8fc1-f8d3df11de10", flow: "xtls-rprx-vision", tls: true, servername: "", network: "tcp"}
-  - {name: "__Unknown_-_Unknown___100.outl", type: vless, server: 100.outline-vpn.cloud, port: 443, uuid: "a7616773-6b81-4aa3-da7a-b8cfa6425b94", flow: "xtls-rprx-vision", tls: true, servername: "flutter.dev", network: "http"}
+  - {name: "___Japan_-_Unknown___100.outli", type: vless, server: 100.outline-vpn.cloud, port: 443, uuid: "a7616773-6b81-4aa3-da7a-b8cfa6425b94", flow: "xtls-rprx-vision", tls: true, servername: "flutter.dev", network: "http"}
   - {name: "VLESS-1000site.ir_2096", type: vless, server: 1000site.ir, port: 2096, uuid: "82555333-8994-42ca-8409-49705bb3ced1", tls: true, network: "tcp"}
   - {name: "__JP_64_239KB_s_F003-260618_01", type: vless, server: 101.142.129.72, port: 443, uuid: "c18b978e-1c4e-415c-8bea-07942b563a64", tls: true, network: "ws"}
   - {name: "___Hong_Kong_SAR_China_-_Hong_", type: vless, server: 101.32.15.176, port: 443, uuid: "ee6774c0-9b19-4ff1-8b30-2da4b71977e2", tls: true, network: "ws"}
@@ -164,6 +163,7 @@ proxies:
   - {name: "tls-ws_5698", type: vless, server: 101.59.1.84, port: 443, uuid: "b8d8a5b0-867f-4491-b4e4-30edc04bb10e", tls: true, network: "ws"}
   - {name: "_", type: vless, server: 101.69.122.102, port: 443, uuid: "d6b8011a-c725-435a-9fec-bf6d3530392c", tls: true, network: "ws"}
   - {name: "___机场推荐_dafei.de_香港_35", type: vless, server: 101.79.165.113, port: 443, uuid: "4c642cae-1a6d-4e51-a1c3-fa5892437aa3", tls: true, network: "ws"}
+  - {name: "___Japan_-_Unknown___101.outli", type: vless, server: 101.outline-vpn.cloud, port: 3600, uuid: "858b080a-a1b3-4922-932d-687ef9c0b7c1", flow: "xtls-rprx-vision", tls: true, servername: "www.speedtest.net", network: "tcp"}
   - {name: "___Netherlands_-_Eygelshoven__", type: vless, server: 1010101.vip, port: 8082, uuid: "53b7fdec-4ccb-481a-8d98-83aa19509330", flow: "xtls-rprx-vision", tls: true, servername: "id.vk.com", network: "grpc"}
   - {name: "美国_070609316", type: vless, server: 101reel.com, port: 443, uuid: "b55ec078-3b17-4ed1-a697-71f464cdcaaa", tls: true, network: "ws"}
   - {name: "美国_0706092081", type: vless, server: 102.129.165.116, port: 443, uuid: "a6a2d661-0ddf-5df2-b3c8-c039115c1304", tls: true, network: "ws"}
@@ -203,7 +203,7 @@ proxies:
   - {name: "___Singapore_-_Unknown___103.1", type: vless, server: 103.106.229.190, port: 13898, uuid: "814bd064-544d-4255-a070-5705c03f6da9", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "___Singapore_-_Unknown___103.1", type: vless, server: 103.106.229.190, port: 19261, uuid: "814bd064-544d-4255-a070-5705c03f6da9", flow: "xtls-rprx-vision", tls: true, servername: "www.apple.com", network: "tcp"}
   - {name: "68.____Singapore", type: vless, server: 103.106.229.236, port: 443, uuid: "454431fc-71e2-42b1-b375-5b55dd06666a", flow: "xtls-rprx-vision", tls: true, servername: "sg.monkora.org", network: "tcp"}
-  - {name: "vless-1874686912", type: vless, server: 103.106.229.37, port: 21004, uuid: "41b1c169-5905-4d98-b6a6-56896c25737c", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "tcp"}
+  - {name: "vless-1853340624", type: vless, server: 103.106.229.37, port: 21004, uuid: "41b1c169-5905-4d98-b6a6-56896c25737c", flow: "xtls-rprx-vision", tls: true, servername: "www.cloudflare.com", network: "tcp"}
   - {name: "___Moldova_-_Unknown___103.106", type: vless, server: 103.106.3.170, port: 51579, uuid: "10e7da8c-745c-4d44-91fc-0b8f897758c8", flow: "xtls-rprx-vision", tls: true, servername: "google.com", network: "tcp"}
   - {name: "baidu365.org_机场推荐____泰国_02", type: vless, server: 103.107.53.42, port: 443, uuid: "fa45096d-bed0-ad80-c773-23c30000001b", tls: true, network: "ws"}
   - {name: "@DeltaKroneckerGithub", type: vless, server: 103.109.234.107, port: 443, uuid: "b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb", flow: "xtls-rprx-vision", tls: true, servername: "api.getsavesafe.space", network: "xhttp"}
@@ -233,7 +233,6 @@ proxies:
   - {name: "5117______USA___VLESS_____YT__", type: vless, server: 103.11.76.162, port: 443, uuid: "8d42d29a-ed53-4684-a9ff-6b33826149de", tls: true, network: "ws"}
   - {name: "孟加拉国_072020001", type: vless, server: 103.110.66.207, port: 443, uuid: "26524cce-d514-4014-a426-365fb266a14d", tls: true, network: "ws"}
   - {name: "___Mumbai__IN___Melbikomas_UAB", type: vless, server: 103.111.114.147, port: 8443, uuid: "3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3", flow: "xtls-rprx-vision", tls: true, servername: "retn.net", network: "tcp"}
-  - {name: "103.112.68.84_443", type: vless, server: 103.112.68.84, port: 443, uuid: "40de6299-d792-4868-8a82-411ead0aa943", flow: "xtls-rprx-vision", tls: true, servername: "gateway.icloud.com", network: "tcp"}
   - {name: "By_EbraSha", type: vless, server: 103.112.69.208, port: 443, uuid: "40de6299-d792-4868-8a82-411ead0aa943", flow: "xtls-rprx-vision", tls: true, servername: "gateway.icloud.com", network: "tcp"}
   - {name: "_49@oneclickvpnkeys", type: vless, server: 103.112.70.124, port: 443, uuid: "a2415a12-3f92-4636-9823-9828d3ceb818", flow: "xtls-rprx-vision", tls: true, servername: "www.google.com", network: "tcp"}
   - {name: "___Netherlands_-_Amsterdam___1", type: vless, server: 103.112.71.172, port: 7443, uuid: "0bef555b-b81f-41f4-a63b-f5707a303245", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
@@ -258,7 +257,7 @@ proxies:
   - {name: "NUKCROW", type: vless, server: 103.116.7.16, port: 443, uuid: "cf39fab0-bb85-42cb-9945-2ad69d78e575", tls: true, network: "ws"}
   - {name: "@Vip_Security_join_us_-_699", type: vless, server: 103.116.7.174, port: 443, uuid: "4d10c997-4781-4cd9-82c3-15453523e12c", tls: true, network: "ws"}
   - {name: "美国_0727041003", type: vless, server: 103.116.7.17, port: 443, uuid: "0b872eaf-74f5-4b58-ab4f-0ef1f46fc63e", tls: true, network: "ws"}
-  - {name: "日本(nodeshare.xyz免费节点)_5", type: vless, server: 103.116.7.189, port: 443, uuid: "c797aa8a-c03d-48da-9ad4-c9774b14bed2", tls: true, network: "ws"}
+  - {name: "___United_States_-_Redwood_Cit", type: vless, server: 103.116.7.189, port: 443, uuid: "89b3cbba-e6ac-485a-9481-976a0415eab9", tls: true, network: "ws"}
   - {name: "vless_21197", type: vless, server: 103.116.7.18, port: 8443, uuid: "7b84db8b-65cd-4072-9c57-dadae303feec", tls: true, network: "ws"}
   - {name: "_", type: vless, server: 103.116.7.202, port: 2053, uuid: "8b562c77-fc99-4d25-9100-d8c0849cc9ff", tls: true, network: "ws"}
   - {name: "___[VL]_Германия__811___РосТун", type: vless, server: 103.116.7.21, port: 2087, uuid: "9d6104a5-fc6d-4fe6-95b7-80d8f699e09d", tls: true, network: "xhttp"}
@@ -284,8 +283,9 @@ proxies:
   - {name: "_82@oneclickvpnkeys", type: vless, server: 103.119.18.158, port: 443, uuid: "8bbf020e-653f-4a82-9900-1214e4e37dab", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
   - {name: "__85@oneclickvpnkeys", type: vless, server: 103.119.18.159, port: 443, uuid: "8bbf020e-653f-4a82-9900-1214e4e37dab", flow: "xtls-rprx-vision", tls: true, servername: "www.microsoft.com", network: "tcp"}
   - {name: "___Czechia_(CZ)_-_Prague___103", type: vless, server: 103.119.18.192, port: 443, uuid: "a77cedab-f429-40bb-b6d4-fd9dd681e675", flow: "xtls-rprx-vision", tls: true, servername: "amd.com", network: "tcp"}
-  - {name: "___捷克___vless___09", type: vless, server: 103.119.18.253, port: 443, uuid: "5131b5e9-2c3c-44a0-8f18-0641f3f21cac", flow: "xtls-rprx-vision", tls: true, servername: "cz1.himoy.space", network: "tcp"}
+  - {name: "___捷克___vless___06", type: vless, server: 103.119.18.253, port: 443, uuid: "5131b5e9-2c3c-44a0-8f18-0641f3f21cac", flow: "xtls-rprx-vision", tls: true, servername: "cz1.himoy.space", network: "tcp"}
   - {name: "捷克(mibei77.com_米贝节点分享)", type: vless, server: 103.119.18.30, port: 443, uuid: "8666ab45-8e3d-4988-841b-2561d91e32d5", tls: true, network: "ws"}
+  - {name: "Бесплатный_VPN_tg_VLESSFORU___", type: vless, server: 103.119.19.151, port: 443, uuid: "5131b5e9-2c3c-44a0-8f18-0641f3f21cac", flow: "xtls-rprx-vision", tls: true, servername: "m3jr66tw.himoy.space", network: "tcp"}
   - {name: "HK", type: vless, server: 103.119.19.208, port: 443, uuid: "423b1d79-08c4-403f-9d5e-c541f791b55f", flow: "xtls-rprx-vision", tls: true, servername: "eu-central.cendora.ru", network: "tcp"}
   - {name: "_", type: vless, server: 103.12.77.191, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", flow: "xtls-rprx-vision", tls: true, servername: "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me", network: "tcp"}
   - {name: "_", type: vless, server: 103.12.77.48, port: 34045, uuid: "d8dd94fd-540e-461d-b5d4-acebef02c22a", tls: true, network: "tcp"}
@@ -328,7 +328,7 @@ proxy-groups:
   - name: "🎯 手动选择"
     type: select
     proxies:
-      - "__Unknown_-_Unknown___0--join."
+      - "___Japan_-_Unknown___0--join.o"
       - "___Japan_-_Unknown___00--join."
       - "__Unknown_-_Unknown___00-join."
       - "By_EbraSha"
