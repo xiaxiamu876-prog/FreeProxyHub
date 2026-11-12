@@ -1,23 +1,23 @@
 {
-  "total": 4478,
-  "updated_at": "2026-11-12T04:53:28Z",
+  "total": 4410,
+  "updated_at": "2026-11-12T14:14:41Z",
   "protocols": {
-    "http": 1299,
-    "socks5": 885,
-    "socks4": 754,
-    "vless": 546,
-    "ss": 381,
-    "trojan": 307,
-    "vmess": 306
+    "http": 1156,
+    "socks5": 937,
+    "socks4": 775,
+    "vless": 571,
+    "ss": 336,
+    "vmess": 331,
+    "trojan": 304
   },
   "sources": {
     "gfpcom": 3495,
-    "monosans": 832,
-    "roosterkid": 151
+    "monosans": 762,
+    "roosterkid": 153
   },
   "anti_censorship": {
-    "medium": 3878,
-    "strong": 413,
-    "extreme": 187
+    "medium": 3764,
+    "strong": 429,
+    "extreme": 217
   }
 }
